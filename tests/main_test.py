@@ -7,11 +7,13 @@ import tests.data_server
 
 class MainTestCase(unittest.TestCase):
     def setUp(self):
-        self.app = openahjo_activity_streams.main.app.test_client()
+        self.app = openahjo_activity_streams.main.get_test_client()
 
 
 class BootstrapTest(MainTestCase):
     def setUp(self):
+        openahjo_activity_streams.main\
+            .set_remote_url('http://localhost:3000/test.json')
         super(BootstrapTest, self).setUp()
         self._test_data_server = tests.data_server.TestServer()
 
