@@ -1,0 +1,1968 @@
+{
+  "meta": {
+    "limit": 20,
+    "next": "/paatokset/v1/agenda_item/?limit=20&order_by=-last_modified_time&offset=20",
+    "offset": 0,
+    "previous": null,
+    "total_count": 31202
+  },
+  "objects": [
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51427/",
+          "confidentiality_reason": null,
+          "file_type": "pdf",
+          "file_uri": null,
+          "hash": null,
+          "id": 73664,
+          "name": "Heinon Tukku Oy hakemus 9.6.2015",
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73664/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51427/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73665,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73665/"
+        }
+      ],
+      "classification_code": "11 02 00-32",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta päättää hyväksyä hakemuksen mukaisesti Heinon Tukku Oy:n liha-, kala- ja maitoalan laitoksen toiminnan olennaisen muutoksen, joka liittyy raakalihavalmisteiden valmistuksen aloittamiseen sekä kalajalosteiden valmistuksen laajentamiseen.</p>\n<p>Omavalvontasuunnitelman toimivuus varmistetaan tarkastuksin ja viranomaisvalvontanäytteenotoin. Omavalvontaan liittyvät asiakirjat on pidettävä ajan tasalla ja nähtävillä valvontaa varten.</p>\n<h3>Asian vireilletulo</h3>\n<p>Elintarvikelain 13 §:n mukainen hakemus on vastaanotettu ympäristökeskuksessa 9.6.2015.</p>\n<h3>Hakija</h3>\n<p>Heinon Tukku Oy, Orionintie 18-22, 02200 Espoo, y-tunnus 2080750-6</p>\n<h3>Toimipaikan nimi ja osoite</h3>\n<p>Heinon Tukku Oy, Vanha Talvitie 2, 00580 Helsinki</p>\n<h3>Hakemuksen sisältö ja perustietoja toiminnasta</h3>\n<p>Hakemuksen yhteydessä on esitetty laitoksen pohjapiirustus. Pohjapiirustukseen on merkitty laitoksen vesipisteet ja lattiakaivot. Raaka-aineiden, valmiiden tuotteiden, henkilökunnan, jätteiden ja pakkaustarvikkeiden kulku- ja kuljetusreitit sekä kuvaus jäähdytettyjen tilojen lämpötilanseurannasta säilyvät päätöksen § 348 27.11.2012 mukaisina. Hakemuksen liitteenä on lisäksi esitetty muutoksia koskeva HACCP-perusteinen omavalvontasuunnitelma sekä lihan- ja kalankäsittelytiloja koskeva kalustepiirustus ja laitesuunnitelma.</p>\n<p>Hakemuksen liitteenä olevaan laitoksen kalustepiirustukseen ja laitesuunnitelmaan sekä omavalvontasuunnitelmaan saatiin täydennyksiä 22.6.2015 sekä pohjapiirustukseen 30.6.2015. Laitos on tarkastettu 18.8.2015.</p>\n<p>Laitos on liha-, kala- ja maitoalan laitos, jonka hyväksyttyjä toimintoja ovat lihan leikkaaminen, jauhelihan valmistus ja lihan paloittelu fileestä. Uutena toimintona on raakalihavalmisteiden tuottaminen. Kala-alan laitoksen toimintoja ovat perkaaminen, fileointi, paloittelu ja kalajalosteiden valmistus (suolaus). Uutena toimintona on kalajalosteiden valmistaminen marinoimalla. Maitoalan laitoksessa pakataan valmiita juustoja pienempiin pakkauksiin. Liha-alan laitoksesta lähetettävien valmiiden elintarvikkeiden keskimääräinen määrä on 130 000 kg/vuosi. Kala-alan laitoksesta lähetettävien valmiiden elintarvikkeiden keskimääräinen määrä on yhteensä 7000 kg/vuosi. Maitoalan laitoksesta lähetettävien valmiiden elintarvikkeiden keskimääräinen määrä on 14 000 kg/vuosi. Elintarviketurvallisuusvirasto Eviran laitokselle antama hyväksymisnumero on 091-18.</p>\n<p>Laitoksen kokonaispinta-ala on 6327 m², josta remontoitu lihatuotantotila on 21 m². Laitoksen olennaiset muutokset koskevat laajennetun lihatuotantotilan käyttöönottoa sekä raakalihavalmisteiden sekä kalajalosteiden (marinointi) valmistuksen aloittamista.</p>\n<p>Raakalihavalmisteiden myynti tapahtuu irtomyyntinä palvelutiskistä sekä pakattuina elintarvikkeina. Paloitellut fileet menevät irtomyyntiin lihatiskiin. Lihan leikkaaminen, jauhaminen, paloittelu, maustaminen sekä marinointi erotetaan ajallisesti toisistaan.</p>\n<p>Kala-alan laitoksessa fileoidaan ja paloitellaan kalaa. Graavausta tehdään vain tilauksesta ja sesonkiaikoina. Uutena toimintona valmistetaan kalajalosteita myytäväksi sekä irtomyyntinä palvelutiskistä että pakattuna elintarvikkeena. Graavaaminen, marinointi sekä muiden kala- ja sillivalmisteiden tuotanto on erotettu ajallisesti toisistaan. Myös kypsän ja raa’an kalan käsittely on erotettu ajallisesti toisistaan.</p>\n<p>Tuotantotiloissa on tarvittavat laitteet ja välineet tilojen ja välineiden huoltoa ja puhdistusta varten sekä riittävä määrä ei-käsikäyttöisin hanoin varusteltuja käsienpesupisteitä. Lisäksi laitoksessa on riittävästi vesipisteitä välineiden puhdistusta varten. Elintarvikkeiden käsittelyyn käytettävät välineet ja laitteet sekä muu kalusto ovat helposti puhtaana pidettäviä ja niiden puhdistamista varten on varattu pesupaikka. Tiloissa, joissa käsitellään tai säilytetään suojaamattomia elintarvikkeita, on lattiakaivo.</p>\n<p>Laitoksen ilmanvaihto on koneellinen ja valaistus tarkoituksenmukainen. Tilat ovat tarvittavilta osin jäähdytettyjä ja jäähdytettyjen tilojen lämpötilojen seurantaa varten on elektroninen tallentava järjestelmä, jossa on myös hälytysjärjestelmä.</p>\n<p>Henkilökunnan sosiaalitilat ja käymälät ovat yhteiset tukkumyymälän muun henkilökunnan kanssa. Sulkutilassa on erilliset pukukaapit henkilökunnan laitoksessa käytettäviä suojavaatteita ja kenkiä varten.</p>\n<p>Laitoksen HACCP-pohjainen omavalvontasuunnitelma on hyväksytty viimeksi 29.4.2009 ja sitä on päivitetty säännöllisesti.</p>\n<h3>Päätöksen voimassaolo</h3>\n<p>Päätös on voimassa toistaiseksi.</p>\n<h3>Asian käsittelyä koskeva maksu</h3>\n<p>Ympäristölautakunnan vahvistaman ympäristöterveydenhuollon taksan perusteella elintarviketurvallisuuspäällikkö päätti määrätä asian käsittelystä 725 euron maksun. Lasku toimitetaan erikseen Helsingin kaupungin talous- ja suunnittelukeskuksen hallintopalvelusta. (Laskutusosoite: Heinon Tukku Oy, Vanha talvitie 2-6, 00580 Helsinki)</p>\n<h3>Kuuleminen</h3>\n<p>Päätöksestä ei ole kuultu hakijaa, koska päätöksessä ei esitetä toiminnallisia ehtoja ja hakijan hakemus hyväksytään sellaisenaan.</p>\n<h3>Päätöksen perustelut</h3>\n<p>Hakemuksessa esitetyt laitoksen tilat ja rakenteet täyttävät elintarvikelaissa ja sen nojalla annetuissa säädöksissä asetetut vaatimukset.</p>\n<h3>Päätöksen perusteena olevat asiakirjat</h3>\n<p>Elintarvikelain 13 §:n mukainen hakemus liitteineen HEL 2015-006929.</p>\n<h3>Sovelletut oikeusohjeet</h3>\n<p>Elintarvikelaki (23/2006) 10, 13, 15, 20, 32, 49, 71 ja 74 § Valtioneuvoston asetus elintarvikevalvonnasta (420/2011) 4 ja 7 § Maa- ja metsätalousministeriön asetus laitosten elintarvikehygieniasta (795/2014) 4 ja 5 § sekä liite 1, liitteen 2 luvut 8, 9 ja 11 ja liitteen 3 luvut 1 ja 2.7, 2.8 ja 2.10 Euroopan parlamentin ja neuvoston asetus (EY) N:o 852/2004 elintarvikehygieniasta Euroopan parlamentin ja neuvoston asetus (EY) N:o 853/2004 eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä Hallintolaki (434/2003) 34 § Helsingin kaupungin ympäristöterveydenhuollon taksa 1.7.2015 alkaen 3 § ja liite 1 kohta 4.1.2</p>\n<h3>Tiedoksi toimijalle</h3>\n<h3>Toiminnan olennainen muutos, toiminnan lopettaminen tai keskeyttäminen</h3>\n<p>Toimintaa ei saa muuttaa olennaisesti ennen kuin toimija on hakenut muutokselle hyväksyntää ja muutos on hyväksytty ympäristökeskuksessa. Toiminnan lopettamisesta tai keskeyttämisestä on tehtävä ilmoitus ympäristökeskukseen.</p>\n<h3>Säilytettävät asiakirjat</h3>\n<p>Toimijan on säilytettävä hakemusasikirjat ja hyväksymispäätös laitoksessa, jossa niiden on oltava laitosta valvovan viranomaisen saatavilla.</p>",
+          "type": "draft resolution"
+        },
+        {
+          "text": "<p>Elintarvikelain 13 §:n mukainen hakemus liha-, kala- ja maitolaitoksen toiminnan olennaisesta muutoksesta on vastaanotettu ympäristökeskuksessa 9.6.2015. Ympäristölautakunta tarkastaa hakemuksen ja tekee laitoksen toiminnan olennaisen muutoksen hyväksymisestä päätöksen.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51427,
+      "index": 14,
+      "introducer": "Riikka Åberg",
+      "issue": {
+        "category": "/paatokset/v1/category/481/",
+        "category_name": "Elintarvikevalvonta",
+        "category_origin_id": "11 02 00",
+        "districts": [
+          {
+            "name": "Hermanni",
+            "type": "kaupunginosa"
+          },
+          {
+            "name": "Hermanninmäki",
+            "type": "osa-alue"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "address",
+            "coordinates": [
+              24.976350359832146,
+              60.19189654613538
+            ],
+            "name": "Vanha talvitie 12",
+            "type": "Point"
+          }
+        ],
+        "id": 20995,
+        "last_modified_time": "2015-08-28T11:06:47.887473",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2015-006929",
+        "resource_uri": "/paatokset/v1/issue/20995/",
+        "slug": "hel-2015-006929",
+        "subject": "Elintarvikelain 13 pykälän mukainen hakemus Heinon Tukku Oy:n liha-, kala- ja maitoalan laitoksen toiminnan olennaisesta muutoksesta",
+        "summary": "Elintarvikelain 13 §:n mukainen hakemus liha-, kala- ja maitolaitoksen toiminnan olennaisesta muutoksesta on vastaanotettu ympäristökeskuksessa 9.6.2015. Ympäristölautakunta tarkastaa hakemuksen ja tekee laitoksen toiminnan olennaisen muutoksen hyväksymisestä päätöksen.",
+        "top_category_name": "Ympäristöasiat"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.879150",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-006929/ylk-2015-12/",
+      "preparer": "Liina-Lotta Nousiainen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51427/",
+      "subject": "Elintarvikelain 13 pykälän mukainen hakemus Heinon Tukku Oy:n liha-, kala- ja maitoalan laitoksen toiminnan olennaisesta muutoksesta"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51426/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73660,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73660/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51426/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73661,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73661/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51426/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73662,
+          "name": null,
+          "number": 3,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73662/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51426/",
+          "confidentiality_reason": null,
+          "file_type": "pdf",
+          "file_uri": "http://dev.hel.fi/paatokset/media/att/e6/e64f9e2d09db1206cf1f72e7112517bed5592100.pdf",
+          "hash": "e64f9e2d09db1206cf1f72e7112517bed5592100",
+          "id": 73663,
+          "name": "Täydennys hakemukseen",
+          "number": 4,
+          "public": true,
+          "resource_uri": "/paatokset/v1/attachment/73663/"
+        }
+      ],
+      "classification_code": "11 02 02 01-34",
+      "classification_description": "esitys, julkinen",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta päättää hyväksyä hakemuksen mukaisesti Lihakauppa Roslund Ky:n liha-alan laitoksen olennaisen muutoksen, joka liittyy sous vide -toiminnan aloittamiseen ja siten pakattujen lihavalmisteiden valmistukseen.</p>\n<p>Toiminta on järjestetty siten, että terveysvaarojen ehkäisemiseksi ei ole tarpeen asettaa erillisiä ehtoja.</p>\n<p>Tuotantotilat ja laitteet tulee puhdistaa ennen toiminnan aloittamista. Omavalvontasuunnitelman toimivuutta varmistetaan tarkastuksin ja viranomaisvalvontanäytteenotoin. Omavalvontaan liittyvät asiakirjat on pidettävä ajan tasalla ja nähtävillä valvontaa varten.</p>\n<h3>Asian vireilletulo</h3>\n<p>Elintarvikelain 13 §:n mukainen hakemus on vastaanotettu ympäristökeskuksessa 23.6.2015.</p>\n<h3>Hakija</h3>\n<p>Lihakauppa Roslund Ky, Työpajankatu 2, 00580 Helsinki y-tunnus 1025498-7</p>\n<h3>Toimipaikan nimi ja osoite</h3>\n<p>Lihakauppa Roslund Ky, Työpajankatu 2, 00580 Helsinki</p>\n<h3>Hakemuksen sisältö ja perustietoja toiminnasta</h3>\n<p>Hakemuksen yhteydessä on esitetty laitoksen pohjapiirustus sekä selvitys raaka-aineiden, valmiiden tuotteiden, henkilökunnan, jätteiden ja pakkaustarvikkeiden kulku- ja kuljetusreiteistä. Pohjapiirustukseen on merkitty laitoksen vesipisteet, lattiakaivot sekä jäähdytettyjen tilojen lämpötilat. Hakemuksen liitteenä on lisäksi esitetty muutoksia koskeva HACCP-perusteinen omavalvontasuunnitelma.</p>\n<p>Hakemukseen on pyydetty täydennystä 21.7.2015. Täydennetty hakemus on vastaanotettu ympäristökeskuksessa 30.7.2015.</p>\n<p>Laitos on hyväksytty liha-alan laitos, jossa on leikkaamo ja jossa valmistetaan jauhelihaa ja raakalihavalmisteita. Elintarviketurvallisuusvirasto Eviran laitokselle myöntämä hyväksymisnumero on 091-10. Laitos on ilmoittanut tämän hetkiseksi vuotuiseksi lähetettävien valmiiden elintarvikkeiden määräksi keskimäärin 200 000 kg. Leikattavat eläinlajit ovat sika, nauta, lammas, siipikarja, riista, poro ja hevonen.</p>\n<p>Laitoksen olennaiset muutokset koskevat sous vide -toiminnon ja siten pakattujen lihavalmisteiden valmistuksen aloittamista. Sous vide -tuotteiden valmistuksessa raaka liha pakataan vakuumipakkaukseen ja kypsennetään pakattuna, joten pakkaamattomia kypsiä lihavalmisteita ei laitoksessa käsitellä. Laitoksen tilat eivät sovellu pakkaamattomien lihavalmisteiden käsittelyyn. Sous vide -tuotteiden kypsennys, jäähdytys ja kuivaus tulevat tapahtumaan nykyisessä temperointihuoneessa 280, jonka pinta-ala on noin 7 m² ja jota tullaan käyttämään ainoastaan sous vide -tuotteiden valmistukseen. Raaka-aineiden käsittely ja pakkaaminen tapahtuvat normaalin käsittelyprosessin mukaisesti lihan vakuumipakkaamiseen saakka. Tuotteiden kypsennys- ja jäähdytyslämpötiloja sekä -aikoja seurataan omavalvonnassa.</p>\n<p>Laitoksen kokonaispinta-ala on 376 m². Sous vide -valmistushuoneen lisäksi laitoksen käytössä olevissa tuotantotiloissa on huoneet lihan leikkaamista varten, huone raakalihavalmisteiden ja jauhelihan valmistamista varten, pakkaamo, lähettämö sekä kylmävarastoja. Lisäksi laitoksella on pakkasvarastotilaa Helsingin Tukkutorin pakastamolla. Tuotantotilojen lisäksi laitoksen käytössä on tarvittavat tauko- ja pukeutumistilat, siivousvälinevarastot sekä pakkaustarvikevarastoja.</p>\n<p>Sous vide -toiminnon aloittamisen lisäksi laitoksen toimintoja tullaan muuttamaan siten, että jauheliha ja osa raakalihavalmisteista valmistetaan nykyisen leikkaamon 204 tiloissa. Varsinainen leikkuutoiminta erotetaan raakalihavalmisteiden ja jauhelihan valmistuksesta ajallisesti.</p>\n<p>Tuotantotiloissa on tarvittavat laitteet ja välineet tilojen ja välineiden huoltoa ja puhdistusta varten sekä riittävä määrä ei-käsikäyttöisin hanoin varusteltuja käsienpesupisteitä. Lisäksi laitoksessa on riittävästi vesipisteitä välineiden puhdistusta varten.</p>\n<p>Huoneiston ilmanvaihto on koneellinen ja valaistus tarkoituksenmukainen. Tilat ovat tarvittavilta osin jäähdytettyjä ja jäähdytettyjen tilojen lämpötilojen seurantaa varten lihatukkuhallissa on elektroninen tallentava järjestelmä.</p>\n<p>Elintarvikkeiden käsittelyyn käytettävät välineet ja laitteet sekä muu kalusto ovat helposti puhtaana pidettäviä ja niiden puhdistamista varten on pesupaikat.</p>\n<p>Laitoksen tilat, joille on haettu hyväksyntää, on tarkastettu 16.7.2015.</p>\n<h3>Päätöksen voimassaolo</h3>\n<p>Päätös on voimassa toistaiseksi.</p>\n<h3>Asian käsittelyä koskeva maksu</h3>\n<p>Ympäristölautakunnan vahvistaman ympäristöterveydenhuollon taksan perusteella ympäristölautakunta päätti määrätä asian käsittelystä 725 euron maksun. Lasku toimitetaan erikseen Helsingin kaupungin talous- ja suunnittelukeskuksen hallintopalvelusta. (Laskutusosoite: Lihakauppa Roslund Ky, Työpajankatu 2, 00580 Helsinki)</p>\n<h3>Kuuleminen</h3>\n<p>Päätöksestä ei ole kuultu hakijaa, koska päätöksessä ei esitetä toiminnallisia ehtoja ja hakijan hakemus hyväksytään sellaisenaan.</p>\n<h3>Päätöksen perustelut</h3>\n<p>Hakemuksessa esitetyt laitoksen tilat ja rakenteet täyttävät elintarvikelaissa ja sen nojalla annetuissa säädöksissä asetetut vaatimukset.</p>\n<h3>Sovelletut oikeusohjeet</h3>\n<p>Elintarvikelaki (23/2006) 10, 13, 15, 20, 32, 49, 71, ja 74 § Valtioneuvoston asetus elintarvikevalvonnasta (420/2011) 4 ja 7 § Maa- ja metsätalousministeriön asetus laitosten elintarvikehygieniasta (1369/2011) 4 ja 5 § sekä liitteet 1, 2 ja 3 Euroopan parlamentin ja neuvoston asetus (EY) N:o 852/2004 elintarvikehygieniasta Euroopan parlamentin ja neuvoston asetus (EY) N:o 853/2004 eläinperäisiä elintarvikkeita koskevista erityisistä hygieniasäännöistä Hallintolaki (434/2003) 34 § Helsingin kaupungin ympäristöterveydenhuollon taksa 1.7.2014 alkaen 3 §, 8 §, liite 1 kohta 4.1.2.</p>\n<h3>Päätöksen perusteena olevat asiakirjat</h3>\n<p>Elintarvikelain 13 §:n mukainen hakemus liitteineen HEL 2015-007493.</p>\n<h3>Muutoksenhaku</h3>\n<p>Valitusosoitus Helsingin hallinto-oikeuteen on liitteenä.</p>\n<h3>Tiedoksi toimijalle</h3>\n<h3>Toiminnan olennainen muutos, toiminnan lopettaminen tai keskeyttäminen</h3>\n<p>Toimintaa ei saa muuttaa olennaisesti ennen kuin toimija on hakenut muutokselle hyväksyntää ja muutos on hyväksytty ympäristökeskuksessa. Toiminnan lopettamisesta tai keskeyttämisestä on tehtävä ilmoitus ympäristökeskukseen.</p>\n<h3>Säilytettävät asiakirjat</h3>\n<p>Toimijan on säilytettävä hakemusasiakirjat ja hyväksymispäätös laitoksessa, jossa niiden on oltava laitosta valvovan viranomaisen saatavilla.</p>",
+          "type": "draft resolution"
+        },
+        {
+          "text": "<p>Elintarvikelain 13 §:n mukainen hakemus liha-alan laitoksen toiminnan olennaisesta muutoksesta on vastaanotettu ympäristökeskuksessa 23.6.2015. Ympäristölautakunta tarkastaa hakemuksen ja tekee laitoksen toiminnan olennaisen muutoksen hyväksymisestä päätöksen.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51426,
+      "index": 13,
+      "introducer": "Riikka Åberg",
+      "issue": {
+        "category": "/paatokset/v1/category/485/",
+        "category_name": "Ilmoitus",
+        "category_origin_id": "11 02 02 01",
+        "districts": [
+          {
+            "name": "Hermanni",
+            "type": "kaupunginosa"
+          },
+          {
+            "name": "Hermanninmäki",
+            "type": "osa-alue"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "address",
+            "coordinates": [
+              24.97235069850385,
+              60.18948138709396
+            ],
+            "name": "Työpajankatu 2",
+            "type": "Point"
+          }
+        ],
+        "id": 20994,
+        "last_modified_time": "2015-08-28T11:06:47.858698",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2015-007493",
+        "resource_uri": "/paatokset/v1/issue/20994/",
+        "slug": "hel-2015-007493",
+        "subject": "Elintarvikelain 13 §:n mukainen hakemus Lihakauppa Roslund Ky:n liha-alan laitoksen toiminnan olennaisesta muutoksesta",
+        "summary": "Elintarvikelain 13 §:n mukainen hakemus liha-alan laitoksen toiminnan olennaisesta muutoksesta on vastaanotettu ympäristökeskuksessa 23.6.2015. Ympäristölautakunta tarkastaa hakemuksen ja tekee laitoksen toiminnan olennaisen muutoksen hyväksymisestä päätöksen.",
+        "top_category_name": "Ympäristöasiat"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.844642",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-007493/ylk-2015-12/",
+      "preparer": "Marjo Ruusunen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51426/",
+      "subject": "Elintarvikelain 13 §:n mukainen hakemus Lihakauppa Roslund Ky:n liha-alan laitoksen toiminnan olennaisesta muutoksesta"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51424/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73657,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73657/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51424/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73658,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73658/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51424/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73659,
+          "name": null,
+          "number": 3,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73659/"
+        }
+      ],
+      "classification_code": "03 01 01-30",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta päättää antaa Helsingin hallinto-oikeudelle Helsingin Kaivohuone Oy:n valituksesta koskien ympäristölautakunnan päätöstä 14.4.2015, § 165 seuraavan lausunnon.</p>\n<p>Ravintola Fredan Tivolin aiheuttama musiikkimeluhaitta tuli vireille ympäristökeskuksessa 26.2.2013. Ympäristökeskus teki asunnontarkastuksia ko. meluhaittaan liittyen (22.3.2013, 21.4.2013, 8.7.2013, 15.3.2014, 26.4.2014, 22.11.2014 ja 13.12.2014) ja kehotti tarkastuksen (21.4.2013) perusteella Helsingin Kaivohuone Oy:tä toimiin melun vähentämiseksi. Lisäksi ympäristökeskus kuuli asianosaisia meluhaittaan liittyen tarkastusten (26.4.2014, 22.11.2014 ja 13.12.2014) perusteella. Ravintolassa tehdyt toimenpiteet musiikkimelun vähentämiseksi ovat olleet hitaita ja riittämättömiä terveyshaitan poistamiseksi. Tästä syystä Helsingin ympäristölautakunta antoi määräyksen haitan poistamisesta ja tehosti määräystä asettamalla uhkasakon.</p>\n<p>Ympäristökeskuksen tiedossa on, että Ravintola Fredan Tivolin toiminta on loppunut ja nyt samassa ravintolatilassa on aloittanut maaliskuussa 2015 toiminnan saman omistajan Club Capital ravintola. Ympäristökeskus on saanut yhteydenoton Club Capitalin aiheuttaman musiikkimelun johdosta samalta asukkaalta, jonka asunnossa meluhaitta on viimeksi todettu.</p>\n<p>Ravintoloiden aiheuttaman musiikkimeluhaitan voimakkuus riippuu ravintolassa tuotetusta äänenvoimakkuudesta ja ravintolatilan ääntä vaimentavista rakenteista. Tyypillisesti musiikkimelun voimakkuus vaihtelee satunnaisesti riippuen soitettavasta musiikista ja käytetystä äänenvoimakkuudesta. Em. syystä ei yksittäisen asunnontarkastuksen tai akustikon tekemän melumittauksen perusteella voida todeta musiikkimeluhaitan poistumista.</p>\n<p>Helsingin ympäristölautakunnan oli perusteltua antaa sakon uhalla tehostettu määräys Helsingin Kaivohuone Oy:lle musiikkimeluhaitasta aiheutuvan terveyshaitan poistamiseksi, koska haitan poistamiseksi annetut kehotukset eivät johtaneet toivottuun tulokseen.</p>\n<p>Helsingin Kaivohuone Oy ei ole ennen määräyksen antoa pystynyt osoittamaan, millä tavalla musiikkimeluhaitta olisi kestävällä tavalla poistettu. Ravintola Club Capitolin toiminta on samankaltaista yökerhotoimintaa kuin Fredan Tivolin toiminta aiemmin oli.</p>\n<p>Ainoa keino, jolla voidaan varmistaa, että Helsingin Kaivohuone Oy mitoittaa ko. ravintolatilassa soitettavan musiikin siten, ettei se vaaranna asumisterveyttä ympäristön asunnoissa, on toiminnanharjoittajalle annettu uhkasakolla tehostettu määräys haitan poistamiseksi. Koska toistuvien kehotusten ei voitu todeta johtaneen terveyshaitan poistamiseen, terveydensuojeluviranomaisen ei ollut perusteltua olettaa, että määräys terveyshaitan poistamiseksi oikeudellisesti sitovana mutta ilman sakon uhkaa menestyisi paremmin. Tehostamattoman määräyksen kokeilua vastaan puhui myös se seikka, että asia oli ollut vireillä pitkään eikä terveyshaittaa ollut saatu lievemmillä menettelyillä poistettua. Asian pitkittäminen ei ole kohtuullista meluhaitasta aiheutuvasta terveyshaitasta kärsiviä asukkaita kohtaan.</p>\n<p>Muilta osin ympäristölautakunta viittaa 14.4.2015 antamaansa päätökseen (§ 165).</p>\n<p>Helsingin Kaivohuone Oy:n hallinto-oikeudelle toimittaman valituksen liitteenä on kaikki ympäristölautakunnan määräyksen perusteena olevat asiakirjat.</p>\n<p>Tämä lausunto on osa asian valmistelua eikä siihen siten voida hakea muutosta (kuntalain 91 §).</p>\n<p>Pöytäkirjaote Helsingin hallinto-oikeudelle (Radanrakentajantie 5, 00520 HELSINKI) asiakirjoineen ja tiedoksi ympäristöterveysosastolle.</p>",
+          "type": "draft statement"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51424,
+      "index": 11,
+      "introducer": "Pertti Forss",
+      "issue": {
+        "category": "/paatokset/v1/category/208/",
+        "category_name": "Oikeudellisten etujen valvonta",
+        "category_origin_id": "03 01 01",
+        "districts": [],
+        "geometries": [],
+        "id": 20993,
+        "last_modified_time": "2015-08-28T11:06:47.807251",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2015-008003",
+        "resource_uri": "/paatokset/v1/issue/20993/",
+        "slug": "hel-2015-008003",
+        "subject": "Lausunto Helsingin hallinto-oikeudelle koskien Helsingin Kaivohuone Oy:n valitusta ympäristölautakunnan 14.4.2015 päätöksestä",
+        "top_category_name": "Lainsäädäntö ja lainsäädännön soveltaminen"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.797959",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-008003/ylk-2015-12/",
+      "preparer": "Timo Koskinen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51424/",
+      "subject": "Lausunto Helsingin hallinto-oikeudelle koskien Helsingin Kaivohuone Oy:n valitusta ympäristölautakunnan 14.4.2015 päätöksestä"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51422/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73656,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73656/"
+        }
+      ],
+      "classification_code": "11 01 00 00-40",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta päättää merkitä tiedoksi Etelä-Suomen aluehallintoviraston päätöksen nro 182/2015/1 koskien Helen Oy:n Patolan huippulämpökeskuksen ympäristönsuojelulain (86/2000) 55 §:n mukaista ympäristölupapäätöksen lupamääräysten tarkistamista. Samalla ympäristölautakunta toteaa, että päätös ei anna aihetta muihin toimenpiteisiin.</p>",
+          "type": "draft resolution"
+        },
+        {
+          "text": "<p>Helen Oy haki Patolan huippulämpökeskuksen ympäristöluvan lupamääräysten tarkistamista 4.12.2013. Hakemuksessaan Helen Oy myös esitti laitoksen maakaasutehon lisäämistä siten, että laitoksen kolme öljykäyttöistä kattilaa muutettaisiin ensisijaisesti maakaasulla käyväksi. Hakemuksen 5.2.2015 saapuneessa täydennyksessä Helen Oy ilmoitti, että hakemuksesta poiketen laitoksella ei tulla lisäämään maakaasutehoa, sillä YSL (86/2000) 110 a §:n mukaisen kansallisen siirtymäsuunnitelman aikaiset (1.1.2016–30.6.2020) päästöraja-arvot ovat saavutettavissa raskaalla polttoöljyllä. Siirtymäkauden jälkeiset (1.7.2020-) päästöraja-arvot ovat lisätietojen mukaan saavutettavissa joko käyttämällä 0,5 paino- % rikkiä sisältävää raskasta polttoöljyä tai polttamalla kevyen ja raskaan polttoöljyn seosta 50/50-seossuhteella, mikäli energiantuotantoyksikköä käytetään enintään 1500 h/a viiden vuoden liukuvana keskiarvona.</p>\n<p>Ympäristölautakunta antoi 24.3.2015 lausunnon Patolan huippulämpökeskuksen ympäristöluvan tarkistamisesta. Lausunnossa todettiin, että Patolan huippulämpökeskuksen ei katsota normaalitilanteessa heikentävän Helsingin ilmanlaatua. Lausunnossa kuitenkin muistutettiin, että energiantuotanto muodostaa nykyisin yli 90 % Helsingin rikkidioksidipäästöistä ja raskaalla polttoöljyllä käytettävien kattiloiden K4-K6 vaihtaminen maakaasukäyttöisiksi olisi ollut sekä ilmastopäästöjen että ilmanlaatua heikentävien päästöjen vähentämiseksi toivottavaa. Lisäksi kiinnitettiin huomiota laitoksen sijaintiin lähellä Vantaanjoen tulvariskialuetta sekä kehotettiin seuraamaan mahdollisuuksia hiilidioksidipäästöjen vähentämiseen lämpökeskuksissa uusiutuvien polttoaineiden avulla.</p>\n<p>Helen Oy on antanut ympäristölautakunnan lausuntoon vastineen. Helen Oy toteaa, että laitoksen tulvariskejä ei ole katsottu aiheelliseksi selvittää, sillä laitos sijaitsee tasolla +13m merenpinnasta kun Vantaanjoen normaali taso on +6m. Polttoainevalintoihin liittyen hakemuksen tullessa vireille joulukuussa 2013 oli käynnissä selvitys teollisuuspäästödirektiivin toteuttamiseksi Patolan lämpökeskuksessa. Selvityksen lopputuloksena maakaasun käyttöön siirtyminen ei osoittautunut teknis-taloudellisesti toteuttamiskelpoiseksi. Lisäksi absoluuttinen päästövähenemä olisi pieni johtuen laitoksen vähäisestä käytöstä. Myös öljypolttoaineesta voidaan hyödyntää yli 90 % energiasisällöstä. Helen Oy toteaa, että sen tavoitteena on tuottaa energiaa hiilineutraalisti vuoteen 2050 mennessä. Teknologian ja polttoaineiden kehittymistä seurataan myös lämpökeskusten osalta. Logistiikan järjestäminen on kuitenkin tosiasiallisesti lämpökeskuksissa suuria peruskuormalaitoksia vaikeampaa, johtuen jaksottaisesta ja hetkellisesti suuresta polttoaineen tarpeesta. Lisäksi uusiutuvan polttoaineen säilyvyys on huono, mikä vaikeuttaa varastointia.</p>\n<p>Etelä-Suomen aluehallintovirasto toteaa, että ympäristöluvassa ei voida velvoittaa toiminnanharjoittajaa käyttämään tiettyä polttoainetta, eikä päästökauppalain (683/2004) mukaiselle toiminnalle voida asettaa raja-arvoja hiilidioksidipäästöille. Muilta-osin lausunnoissa esitetyt asiat on otettu huomioon lupamääräyksistä ja perusteluista ilmenevällä tavalla.</p>\n<p>Etelä-Suomen aluehallintoviraston päätös sisältää määräykset laitoksen päästöjen rajoittamisesta, melusta, polttoaineiden varastoinnista, jätehuollosta, häiriötilanteista ja muista poikkeuksellisista tilanteista sekä päästötarkkailusta, raportoinnista ja ympäristöriskiselvityksestä. Lupa on voimassa toistaiseksi. Lupapäätös korvaa Uudenmaan ympäristökeskuksen ympäristölupapäätöksen No YS 1640, 14.11.2006. Kun komissio on julkaissut päätöksen laitoksen pääasiallista toimintaa (LCP) koskevista parasta käytettävissä olevaa tekniikkaa (BAT) koskevista päätelmistä, toiminnanharjoittajan on toimitettava kuuden kuukauden kuluessa Uudenmaan ELY-keskukselle selvitys luvan tarkistamisen tarpeesta perusteluineen. (YSL 527/2014 80§).</p>\n<p>Lupa on lainvoimainen valitusajan jälkeen, jos päätökseen ei haeta muutosta (YSL 100 §). Etelä-Suomen aluehallintoviraston päätökseen saa hakea valittamalla muutosta Vaasan hallinto-oikeudelta. Valitusaika päättyy 7.9.2015.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51422,
+      "index": 9,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/461/",
+        "category_name": "Ympäristölupa",
+        "category_origin_id": "11 01 00 00",
+        "districts": [
+          {
+            "name": "Patola",
+            "type": "osa-alue"
+          },
+          {
+            "name": "Oulunkylä",
+            "type": "kaupunginosa"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "address",
+            "coordinates": [
+              24.980812186790235,
+              60.23739345617949
+            ],
+            "name": "Lämpökuja 6",
+            "type": "Point"
+          }
+        ],
+        "id": 17377,
+        "last_modified_time": "2015-08-28T11:06:47.749565",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2015-001987",
+        "resource_uri": "/paatokset/v1/issue/17377/",
+        "slug": "hel-2015-001987",
+        "subject": "Lausunto Etelä - Suomen aluehallintovirastolle Helen Oy:n hakemuksesta Patolan huippulämpökeskuksen ympäristölupamääräysten tarkistamisesta",
+        "summary": "Etelä - Suomen aluehallintovirasto pyytää Helsingin kaupungin lausuntoa Helen Oy:n hakemuksesta Patolan lämpökeskuksen ympäristöluvan lupamääräysten tarkastamista. Lausunto pyydetään toimittamaan 23.3.2015 mennessä. Lausunnon antamiselle on myönnetty lisäaikaa 21.4.2015 asti.",
+        "top_category_name": "Ympäristöasiat"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.737169",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-001987/ylk-2015-12/",
+      "preparer": "Jukka-Pekka Männikkö",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51422/",
+      "subject": "Etelä-Suomen aluehallintoviraston päätös Helen Oy:n Patolan huippulämpökeskuksen ympäristölupa-asiassa"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51421/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73654,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73654/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51421/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73655,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73655/"
+        }
+      ],
+      "classification_code": "11 01 01-23",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta päättää antaa Etelä-Suomen aluehallintovirastolle ja kaupunginhallitukselle laiturin ja vesialueen ruoppauksen pysyttämistä koskevasta, vesilain mukaisesta hakemuksesta seuraavan lausunnon.</p>\n<p>Ympäristölautakunnalla ei ole huomautettavaa Asunto Oy Kallis-Lahden hakemuksesta. Uusi laituri vastaa kooltaan ja sijainniltaan paikalla aiemmin ollutta laituria, eikä laiturin rakentaminen siten ole merkittävästi muuttanut ympäristön tilaa tai heikentänyt yhteisen vesialueen käyttömahdollisuuksia.</p>",
+          "type": "draft statement"
+        },
+        {
+          "text": "<p>Etelä-Suomen aluehallintovirasto pyytää Helsingin kaupungin ympäristönsuojeluviranomaisen lausuntoa Asunto Oy Kallis-Lahden hakemuksesta laiturin ja vesialueen ruoppauksen pysyttämisestä yhteisellä vesialueella Munkkiniemessä, kiinteistöllä 091-030-0076-0022, osoitteessa Kuusiniementie 19. Lausunto tulee jättää aluehallintovirastoon 2.9.2015 mennessä.</p>\n<p>Asunto Oy Kallis-Lahti hakee vesilain mukaista lupaa rakennetulle pienvenelaiturille ja tehdylle ruoppaukselle. Vanha laituri on purettu ja korvattu uudella betoniponttonilaiturilla, joka on tehty samalle perustukselle kuin aikaisempi laituri. Samalla haetaan vesilain 2 luvun 12 §:n mukaisesti oikeutta sijoittaa laituri ja oikeutta suorittaa ruoppaus toisen alueeseen eli yhteiseen vesialueeseen 091-420-876-4.</p>\n<p>Laiturin rakentamista varten on haettu lainvoimainen toimenpidelupa (lupatunnus 30-4136-09-C) Helsingin kaupungin rakennusvalvontavirastolta. Ruoppauksesta on tehty ilmoitus Uudenmaan elinkeino-, liikenne- ja ympäristökeskukseen, joka on antanut asiasta lausunnon 3.4.2012 (UUDELY/150/07.00/2012).</p>\n<p>Laituri on ns. betoniponttonilaituri, joka on rakennettu vanhan laiturin perustukselle vuonna 2012. Laituri on varsinaiselta laituriosaltaan kooltaan 15 m x 2,5 m, lisäksi laituriin liittyy 7 m x 1,5 m kokoinen käyntisilta sekä vanhan laiturin perustusten päälle sijoitettu 3 m x 5 m kokoinen terassi. Laiturin kohdalta on ruopattu 450 m² alueelta yhteensä 450 m³ ruoppausmassaa, joka on toimitettu Helsingin sataman Taulukarin meriläjitysalueelle. Ruoppaus on toteutettu toukokuussa 2012.</p>\n<p>Vesialueella 876:4 on voimassa oleva asemakaava nro 4040 ja ranta-alueella voimassa oleva asemakaava nro 8189. Alueen läheisyydessä ei ole luonnonsuojelualueita tai Natura 2000 -verkostoon kuuluvia kohteita.</p>\n<p>Laituri on rakennettu jäiden rikkoman vanhan laiturin perustuksille. Rantaa on ruopattu laiturin kohdalta, jotta laituri voidaan käyttää tarkoituksenmukaisesti ao. tontin 3 asuinhuoneiston pienveneille. Rannan matalikkoa ruoppaamalla laiturista ei tarvinnut tehdä aikaisempaa pidempää. Osa uudesta laiturista sijoittuu yhteiselle vesialueelle. Myös vanha laituri sijaitsi osittain yhteisellä vesialueella. Laiturin rakentamisessa on huomioitu naapurikiinteistön Kuusiniementie 21 laiturin sijainti ja käyttö.</p>\n<p>Hakemuksen mukaan hankkeesta ei ole taloudellista hyötyä hakijalle ts. laituria ei käytetä ansiotulolähteenä, koska se on rakennettu vain perheiden vapaa-ajankäyttöä ajatellen. Hankkeesta ei myöskään ole hakemuksen mukaan aiheutunut haittaa tai vahinkoa vesistölle eikä vaikeuttanut yhteisen vesialueen käyttöä. Rantamaisema on säilytetty mahdollisimman luonnonmuotoisena ja siten vältytty tarpeettomalta lisärakentamiselta tai rannan muokkaamiselta.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51421,
+      "index": 8,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/469/",
+        "category_name": "Vesiensuojelu ja vesirakentamisen valvonta",
+        "category_origin_id": "11 01 01",
+        "districts": [
+          {
+            "name": "Kuusisaari",
+            "type": "osa-alue"
+          },
+          {
+            "name": "Munkkiniemi",
+            "type": "kaupunginosa"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "plan_unit",
+            "coordinates": [
+              [
+                [
+                  [
+                    24.866932939607906,
+                    60.184932915624344
+                  ],
+                  [
+                    24.867320669670494,
+                    60.1850760135031
+                  ],
+                  [
+                    24.86724489556572,
+                    60.18512983511605
+                  ],
+                  [
+                    24.86752046736896,
+                    60.18522866992566
+                  ],
+                  [
+                    24.86762151902312,
+                    60.18514973321601
+                  ],
+                  [
+                    24.867680964191216,
+                    60.18516770750796
+                  ],
+                  [
+                    24.867527581702713,
+                    60.185287914868915
+                  ],
+                  [
+                    24.867576212072944,
+                    60.185304092291744
+                  ],
+                  [
+                    24.867633826318766,
+                    60.18533822054879
+                  ],
+                  [
+                    24.867764994813594,
+                    60.18558150477921
+                  ],
+                  [
+                    24.867843870109358,
+                    60.18566417531365
+                  ],
+                  [
+                    24.867980351947953,
+                    60.185754092486256
+                  ],
+                  [
+                    24.868211228528804,
+                    60.185870482153746
+                  ],
+                  [
+                    24.868383209630554,
+                    60.185910288466225
+                  ],
+                  [
+                    24.868593423159645,
+                    60.1859507158523
+                  ],
+                  [
+                    24.868789786752746,
+                    60.18599120100374
+                  ],
+                  [
+                    24.868934419108214,
+                    60.186033528556095
+                  ],
+                  [
+                    24.86950150870013,
+                    60.18552818784754
+                  ],
+                  [
+                    24.868057710831863,
+                    60.18380043374885
+                  ],
+                  [
+                    24.866932939607906,
+                    60.184932915624344
+                  ]
+                ]
+              ],
+              [
+                [
+                  [
+                    24.859990499007885,
+                    60.187639793061614
+                  ],
+                  [
+                    24.861596106717172,
+                    60.18818777697597
+                  ],
+                  [
+                    24.865227445853158,
+                    60.18910364501778
+                  ],
+                  [
+                    24.86550759624036,
+                    60.188821230488486
+                  ],
+                  [
+                    24.865425736533215,
+                    60.188808967787196
+                  ],
+                  [
+                    24.865173334744156,
+                    60.1888537411071
+                  ],
+                  [
+                    24.865011204731665,
+                    60.1888043010788
+                  ],
+                  [
+                    24.865047452438567,
+                    60.18868315178031
+                  ],
+                  [
+                    24.864831499171352,
+                    60.18859547528338
+                  ],
+                  [
+                    24.864858408631495,
+                    60.18857138574171
+                  ],
+                  [
+                    24.864534173083232,
+                    60.18845227412461
+                  ],
+                  [
+                    24.864449540519573,
+                    60.18840466275939
+                  ],
+                  [
+                    24.864332465062358,
+                    60.188361532790644
+                  ],
+                  [
+                    24.864300387638156,
+                    60.18835600700779
+                  ],
+                  [
+                    24.86425818719668,
+                    60.18831839268246
+                  ],
+                  [
+                    24.864235975393054,
+                    60.18833964170302
+                  ],
+                  [
+                    24.863911710225082,
+                    60.1880850624167
+                  ],
+                  [
+                    24.863953960900382,
+                    60.188042840487654
+                  ],
+                  [
+                    24.86379798841147,
+                    60.187957216363145
+                  ],
+                  [
+                    24.86358986155783,
+                    60.18788350265608
+                  ],
+                  [
+                    24.86349882613254,
+                    60.1878702330496
+                  ],
+                  [
+                    24.863264541141742,
+                    60.18786115087584
+                  ],
+                  [
+                    24.863003279915567,
+                    60.18782065335284
+                  ],
+                  [
+                    24.86290417890671,
+                    60.187805346558164
+                  ],
+                  [
+                    24.86280990465795,
+                    60.18780170376282
+                  ],
+                  [
+                    24.86280990465795,
+                    60.18780170376282
+                  ],
+                  [
+                    24.862803748531416,
+                    60.18780197563184
+                  ],
+                  [
+                    24.86279766341205,
+                    60.18780250786146
+                  ],
+                  [
+                    24.862791694358098,
+                    60.187803300498246
+                  ],
+                  [
+                    24.86278587745351,
+                    60.18780434460418
+                  ],
+                  [
+                    24.862780266805633,
+                    60.18780563125979
+                  ],
+                  [
+                    24.862774889486758,
+                    60.18780715151777
+                  ],
+                  [
+                    24.86276979956682,
+                    60.18780890543405
+                  ],
+                  [
+                    24.86276503324222,
+                    60.18781085714442
+                  ],
+                  [
+                    24.862760617510556,
+                    60.18781301565228
+                  ],
+                  [
+                    24.862756588568217,
+                    60.18781534509346
+                  ],
+                  [
+                    24.862752973450313,
+                    60.18781784549591
+                  ],
+                  [
+                    24.862749799341604,
+                    60.18782048098616
+                  ],
+                  [
+                    24.86274709327731,
+                    60.18782325159218
+                  ],
+                  [
+                    24.86274487343056,
+                    60.18782612143112
+                  ],
+                  [
+                    24.86274315786239,
+                    60.18782908154626
+                  ],
+                  [
+                    24.862741955696933,
+                    60.1878321050208
+                  ],
+                  [
+                    24.862741285107447,
+                    60.187835155971854
+                  ],
+                  [
+                    24.862741128070876,
+                    60.187838234380756
+                  ],
+                  [
+                    24.862741511734658,
+                    60.18784131334934
+                  ],
+                  [
+                    24.862742418225455,
+                    60.1878443569574
+                  ],
+                  [
+                    24.862743847618404,
+                    60.18784734725412
+                  ],
+                  [
+                    24.862745781927764,
+                    60.18785027524549
+                  ],
+                  [
+                    24.86274822134083,
+                    60.18785309605451
+                  ],
+                  [
+                    24.862751129773695,
+                    60.18785581861923
+                  ],
+                  [
+                    24.862758978373247,
+                    60.18786244163219
+                  ],
+                  [
+                    24.862800601202636,
+                    60.18789755169709
+                  ],
+                  [
+                    24.86280283635079,
+                    60.18789965425957
+                  ],
+                  [
+                    24.862804701682876,
+                    60.18790183721825
+                  ],
+                  [
+                    24.8628061611896,
+                    60.18790409156043
+                  ],
+                  [
+                    24.862807223919987,
+                    60.18790640832009
+                  ],
+                  [
+                    24.86280787196285,
+                    60.18790876055241
+                  ],
+                  [
+                    24.86280810539307,
+                    60.18791113030659
+                  ],
+                  [
+                    24.86280790622456,
+                    60.18791350858866
+                  ],
+                  [
+                    24.862807301642164,
+                    60.187915859524985
+                  ],
+                  [
+                    24.862806273622354,
+                    60.18791818309695
+                  ],
+                  [
+                    24.862804840338207,
+                    60.187920443421625
+                  ],
+                  [
+                    24.862803019813093,
+                    60.187922640517606
+                  ],
+                  [
+                    24.862800812196664,
+                    60.18792473848339
+                  ],
+                  [
+                    24.862798244523976,
+                    60.1879267373469
+                  ],
+                  [
+                    24.862798244523976,
+                    60.1879267373469
+                  ],
+                  [
+                    24.862758809918777,
+                    60.18795462806734
+                  ],
+                  [
+                    24.862747532817522,
+                    60.187961922392816
+                  ],
+                  [
+                    24.862735032216893,
+                    60.18796871282691
+                  ],
+                  [
+                    24.86272142549378,
+                    60.18797494563825
+                  ],
+                  [
+                    24.86270679394105,
+                    60.18798057603354
+                  ],
+                  [
+                    24.862691254898532,
+                    60.18798555925678
+                  ],
+                  [
+                    24.862674916619873,
+                    60.187989868493524
+                  ],
+                  [
+                    24.862657896407892,
+                    60.18799346796321
+                  ],
+                  [
+                    24.86264032054008,
+                    60.18799633087016
+                  ],
+                  [
+                    24.86262231529391,
+                    60.187998430418666
+                  ],
+                  [
+                    24.86262231529391,
+                    60.187998430418666
+                  ],
+                  [
+                    24.862501897682417,
+                    60.188009812108454
+                  ],
+                  [
+                    24.862535055976753,
+                    60.18811663611344
+                  ],
+                  [
+                    24.862471064155713,
+                    60.18812288846086
+                  ],
+                  [
+                    24.862437016904494,
+                    60.1880088831762
+                  ],
+                  [
+                    24.862318093501802,
+                    60.18799267578713
+                  ],
+                  [
+                    24.86182248585193,
+                    60.18797271052396
+                  ],
+                  [
+                    24.861588217993223,
+                    60.18795735158314
+                  ],
+                  [
+                    24.861494516692503,
+                    60.18794384445661
+                  ],
+                  [
+                    24.861258769875725,
+                    60.18792454317615
+                  ],
+                  [
+                    24.860966463319418,
+                    60.18792925428185
+                  ],
+                  [
+                    24.860935841985413,
+                    60.187918469610395
+                  ],
+                  [
+                    24.860957531810605,
+                    60.18788257269537
+                  ],
+                  [
+                    24.861179389969514,
+                    60.187791130126584
+                  ],
+                  [
+                    24.861176746754683,
+                    60.1877768474545
+                  ],
+                  [
+                    24.86094652643891,
+                    60.187693386072056
+                  ],
+                  [
+                    24.860905214952208,
+                    60.187676810007005
+                  ],
+                  [
+                    24.860867363199375,
+                    60.18765828989141
+                  ],
+                  [
+                    24.86083333985989,
+                    60.18763801459906
+                  ],
+                  [
+                    24.860803468552206,
+                    60.18761617295662
+                  ],
+                  [
+                    24.860709440889774,
+                    60.18753960357591
+                  ],
+                  [
+                    24.86048981669597,
+                    60.18739769556327
+                  ],
+                  [
+                    24.860424980408233,
+                    60.18737384244918
+                  ],
+                  [
+                    24.859990499007885,
+                    60.187639793061614
+                  ]
+                ]
+              ]
+            ],
+            "name": "91-420-876-4",
+            "type": "MultiPolygon"
+          }
+        ],
+        "id": 20992,
+        "last_modified_time": "2015-08-28T11:06:47.684851",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "ESAVI/3018/2015",
+        "register_id": "HEL 2015-008520",
+        "resource_uri": "/paatokset/v1/issue/20992/",
+        "slug": "hel-2015-008520",
+        "subject": "Ympäristölautakunnan lausunto aluehallintovirastolle ja kaupunginhallitukselle laiturin ja vesialueen ruoppauksen pysyttämisestä",
+        "summary": "Etelä-Suomen aluehallintovirasto pyytää Helsingin kaupungin ympäristönsuojeluviranomaisen lausuntoa Asunto Oy Kallis-Lahden hakemuksesta laiturin ja vesialueen ruoppauksen pysyttämisestä yhteisellä vesialueella Munkkiniemessä, kiinteistöllä 091-030-0076-0022, osoitteessa Kuusiniementie 19. Lausunto tulee jättää aluehallintovirastoon 2.9.2015 mennessä.",
+        "top_category_name": "Ympäristöasiat"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.674648",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-008520/ylk-2015-12/",
+      "preparer": "Ville Hahkala",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51421/",
+      "subject": "Ympäristölautakunnan lausunto aluehallintovirastolle ja kaupunginhallitukselle laiturin ja vesialueen ruoppauksen pysyttämisestä"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51420/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73651,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73651/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51420/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73652,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73652/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51420/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 73653,
+          "name": null,
+          "number": 3,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/73653/"
+        }
+      ],
+      "classification_code": "11 01 00 00-40",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta antaa kaupunginhallitukselle rakennusviraston Koirasaarten ja Haakoninlahti 2:n kaava-alueiden ruoppausta, massojen läjitystä mereen ja merialueen täyttöä sekä betonijätteen hyödyntämistä merialueen täytössä koskevista lupahakemuksista seuraavan lausunnon.</p>\n<p>Koirasaarten itäpuolella sijaitsevat Koiraluodot on linnustollisesti arvokas kohde, joka alueen rakentamisen edetessä tulee jäämään alueen keskelle tehtävään Koiraluodonkanavaan. Töiden seurauksena Koiraluotojen pesimälinnusto tulee häviämään. Helsingin merialueilla on kuitenkin lukuisia vastaavia pinta-alaltaan pieniä luotoja, eikä pesimälinnuston menetys saaristolintujen kokonaiskantaan suhteutettuna ole siten merkittävä. Koska luodoilla vielä toistaiseksi on pesivää linnustoa, tulee häiriötä aiheuttavat ruoppaus- ja täyttötyöt ajoittaa lintujen pesimäkauden ulkopuolelle siten, ettei aloitettuja pesintöjä tuhoudu eikä lähiluodoille aiheudu häiriötä.</p>\n<p>Jokainen samentumista aiheuttava työvaihe on tehtävä mahdollisimman yhtäjaksoisesti ja sellaisin työmenetelmin, että haitta vesiluonnolle sekä merialueelle ja sen käytölle on mahdollisimman vähäistä. Ruoppaus- ja täyttötyöt eivät saa vaarantaa Kymijoen-Suomenlahden vesienhoitosuunnitelman tavoitteiden toteutumista.</p>\n<p>Betonijätteen hyötykäyttö täytöissä on kannatettavaa, koska sillä voidaan korvata neitseellisten luonnonvarojen käyttöä maanrakentamisessa. Hakemuksen mukainen betonijätteen hyödyntäminen tulee kuitenkin toteuttaa siten, ettei siitä aiheudu meren pilaantumista tai muuta haittaa ympäristölle. Jokaisen täyttöön käytettävän betonierän ympäristökelpoisuus on arvioitava erikseen, ettei täyttöön joudu likaantunutta betonia. Ympäristökelpoisuuden määrittämisessä voidaan soveltaa valtioneuvoston asetuksessa 591/2006 annettuja kriteerejä. Hyötykäytön vaikutuksia orsi- ja meriveteen on seurattava.</p>\n<p>Hienoaineksen joutuminen mereen täytön yhteydessä on estettävä. Täyttötöissä tulee huolehtia siitä, ettei louheen seassa ole panoslankoja tai muuta roskaa, joka voi aiheuttaa ympäristönsuojelulain 3 § 1 momentin 1 kohdassa tarkoitettua ympäristön pilaantumista vesialueella.</p>\n<p>Työn vesistötarkkailusta tulee esittää yksityiskohtainen suunnitelma valvoville viranomaisille ennen työhön ryhtymistä. Tarkkailu voidaan toteuttaa osana alueella toteutettavaa yhteistarkkailua.</p>",
+          "type": "draft statement"
+        },
+        {
+          "text": "<p>Kaupunginhallitus pyytää ympäristönsuojeluviranomaisen lausuntoa Helsingin kaupungin rakennusviraston Etelä-Suomen aluehallintovirastoon jättämästä vesilain mukaisesta hakemuksesta, joka koskee Koirasaarten ja Haakoninlahti 2 kaava-alueiden ruoppausta, massojen läjitystä mereen ja merialueen täyttöä sekä ympäristölupahakemuksesta, joka koskee betonijätteen hyödyntämistä maa- ja vesirakentamisessa.</p>\n<p>Vesilain mukaista lupaa (ESAVI/1199/2015) haetaan Koirasaarten ja Haakoninlahti 2 kaava-alueen suunnitelluille ruoppauksille, massojen meriläjitykselle ja merialueen täytölle sekä valmisteluluvalle. Entisen öljysataman alueella sijaitsevaa Koirasaarta on tarkoitus laajentaa merialueelle. Ennen rakentamisen aloittamista alueella on tehtävä ruoppauksia ja meritäyttöjä. Alueella tehtävät ruoppaukset ja meritäytöt toteutetaan tulevan rakentamisen edellyttämässä laajuudessa. Ruopattavan alueen koko on noin 14,4 ha ja ruopattava massamäärä yhteensä noin 550 000 m³.</p>\n<p>Alueella tehtyjen sedimenttitutkimusten perusteella osa ruopattavaksi suunnitellun sedimentin pintakerroksista sisältää kohonneita haitta-ainepitoisuuksia. Ruoppaustyöt aloitetaan haitta-ainepitoisten sedimenttien kuorintaruoppauksella. Suunnittelualueella on todettu ympäristöministeriön ”Sedimenttien ruoppaus- ja läjitysohjeen” laatukriteerien tasojen 1 ja 2 ylittäviä haitta-ainepitoisuuksia sisältäviä sedimenttejä noin 0,1…2 m paksuisena kerroksena. Haitta-ainepitoisen sedimentin kerrospaksuudet vaihtelevat eri kohdissa suunnittelualuetta.</p>\n<p>Tason 1 ylittävien ruoppausmassojen kokonaismääräksi on arvioitu noin 70 000 m³ktr. Tästä määrästä noin 600 m³ktr arvioidaan olevan tason 2 ylittäviä massoja ja nämä tason 2 ylittävät massat esitetään kuorintaruopattavaksi ja maalle sijoitettavaksi. Haitta-ainepitoisten sedimenttien ruoppaustöissä käytetään suljettavaa ympäristökauhaa (kahmari- tai visiirikauha), joka vähentää kauhassa olevan kiintoaineen vapautumista veteen. Ruopatun massan vesipitoisuus on lisäksi merkittävästi alhaisempi verrattuna esim. imuruoppaukseen.</p>\n<p>Pilaantuneet (tason 2 ylittävät) ruoppausmassat, yhteensä noin 600 m³ktr, sijoitetaan maaläjitykseen sedimenttialtaisiin Helsingin kaupungin välivarastointialueelle, johon on haettu ympäristölupaa sedimenttien kuivatusta ja mahdollista käsittelyä varten. Välivarastointialtaassa kuivuneet ja tarvittaessa jatkokäsiteltävät ruoppausmassat voidaan myöhemmin hyödyntää esim. Kruunuvuorenrannan aluerakennushankkeessa tai muussa rakennuskohteessa täyttömassoina, mikäli haitta-ainepitoisuudet sen sallivat. Mikäli ruoppausmassojen hyödyntäminen ei ole mahdollista, massa toimitetaan vastaanottopaikkaan, jolla on lupa kyseisen massaerän vastaanottoon tai käsittelyyn.</p>\n<p>Meriläjitettävät, mahdollisesti pilaantuneet (tasojen 1 ja 2 väliin sijoittuvia haitta-ainepitoisuuksia sisältävät) ruoppausmassat toimitetaan meriläjitysalueelle, jolla on lupa vastaanottaa em. massoja. Meriläjitysalueelle sijoitettava tasojen 1 ja 2 välinen massamäärä on noin 70 000 m³ktr. Mikäli meriläjitysaluetta, jolle voi sijoittaa mahdollisesti pilaantunutta sedimenttiä, ei ole käytettävissä, sijoitetaan mahdollisesti pilaantuneet (tasojen 1 ja 2 väliin sijoittuvia haitta-ainepitoisuuksia sisältävät) ruoppausmassat maalle Helsingin kaupungin ympäristöluvalliselle välivarastointi- ja esikäsittelyalueelle (Kruunuvuorenranta, Jätkäsaari, Kalasatama tai Kyläsaari) tai meriläjitykseen hankekohtaisen erikseen laadittavan riskinarvion perusteella. Ruoppausmassojen mahdollinen stabilointi tai muu jatkojalostus suunnitellaan tarkemmin erikseen ja suunnitelmat hyväksytetään lupaviranomaisella ennen stabilointityön aloittamista. Tason 1 alittavat ruoppausmassat sijoitetaan meriläjitysalueille, joilla on lupa vastaanottaa kyseisiä massoja. Pilaantumattomien ruoppausmassojen kokonaismääräksi on arvioitu noin 480 000 m³ktr.</p>\n<p>Vesialueiden täytöt esitetään tehtäväksi rajaamalla meritäyttöalueet louheesta rakennettavalla reunapenkereellä, jonka jälkeen rajatut alueet täytetään alueen rakentamiseen soveltuvalla täyttömateriaalilla. Reunapenkereet tehdään eroosiota kestävästä karkeasta, avolouhintakohteista peräisin olevasta louheesta. Reunapenkereeseen käytettävän louheen roskattomuuteen kiinnitetään erityistä huomiota niin louhinta- kuin täyttökohteessa. Tarvittaessa täyttöalueen ympärille asennetaan suojaverho tai vastaava rakenne, jolla pyritään varmistamaan ettei roskia pääse leviämään täyttöalueen ympäristöön. Reunapenkereen sisäpuolisissa meritäytöissä voidaan käyttää louhetta, kitkamaata sekä purkubetonia. Hankealueen meritäyttöihin arvioidaan tarvittavan noin 1 200 000 m³ktr täyttömassoja.</p>\n<p>Ruoppaus- ja täyttötyöt kohteessa on tarkoitus aloittaa vuoden 2015 syksyllä. Hankkeen käynnistämisellä on kiire, joten hakija hakee kohteeseen ruoppausten osalta valmistelulupaa ennen päätöksen lainvoimaiseksi tulemista (VL 587/2011, luku 3, 17§).</p>\n<p>Ympäristölupaa (ESAVI/1280/2015) haetaan purkubetonin hyötykäytöille täytöissä. Lupaa hyötykäyttää purkubetonia haetaan enimmäismäärälle 50 000 m³rtr. Täytöissä hyötykäytettävät betonit voivat olla peräisin Helsingin kaupungin eri purkukohteista. Betoni murskataan/pulveroidaan ennen täyttöön sijoittamista enintään 300 mm kappalekokoon ja siitä poistetaan betoniraudat. Betonia hyötykäytetään vain reunapenkereiden sisään jäävien alueiden täytöissä. Betonitäyttö sijoitetaan täyttöön siten, betoni ei jää rakenteen pintaan, eikä näin ollen ole suoraan kosketuksissa meriveden kanssa. Betoni sijoitetaan rakenteeseen siten, että se on muun täyttömateriaalin seassa, eikä muodosta omaa erillistä täyttökerrosta. Betonia sisältävän täytön päälle tehdään täyttökerros louheesta tai kitkamaasta siten, että täyttöä on betonin päällä vähintään 1 metri.</p>\n<p>Hankkeesta ei hakemuksen mukaan aiheudu pysyviä tai laaja-alaisia vaikutuksia veden laatuun. Sedimentin ruoppaus aiheuttaa veden samentumista ruoppausalueella ja sen välittömässä läheisyydessä. Koirasaarten alueen kuorintaruoppaustöissä käytetään suljettavaa ympäristökauhaa (kahmari- tai visiirikauha), joka vähentää kiintoaineen vapautumista veteen. Valtaosa ruoppauksen yhteydessä suspendoituvasta kiintoaineesta sedimentoituu ruoppaustyön päätyttyä suunnittelualueenvälittömään läheisyyteen muutamassa päivässä. Hankkeen aiheuttama veden samentuminen on näin ollen paikallista ja suhteellisen lyhytkestoista.</p>\n<p>Täytön vaikutusalueella ei ole merkittäviä kalojen lisääntymisalueita. Vaikutusalueella ei ole myöskään harvinaisia tai tiheydeltään merkittäviä kalapopulaatioita. Näin ollen hankkeen vaikutukset kalastoon arvioidaan vähäisiksi. Ruoppaus- ja täyttötyöt voivat aiheuttaa väliaikaista veden samentumista suunnittelualueen läheisyydessä. Veden sameuden Kruunuvuorenselällä on kuitenkin todettu ajoittain olevan luontaisestikin melko suurta, johtuen Vantaanjoen virtaamasta. Suunnittelualueen välittömässä läheisyydessä sijaitsee lisäksi 9,5 m kulkusyvyyden väylä, jossa kalastusta on rajoitettu. Näin ollen hankkeesta kalastukselle mahdollisesti aiheutuvat vaikutukset jäävät vähäisiksi ja lyhytkestoisiksi.</p>\n<p>Suunnittelualueen pohjaeläimistö tuhoutuu ruoppaus- ja täyttötöiden seurauksena. Töiden päätyttyä ja olosuhteiden vakiinnuttua pohjaeläimistö palautuu kuitenkin varsin nopeasti ennalleen (pl. mereltä vallattavat uudet maa-alueet). Ruoppaus- ja täyttötöiden aikana voi sekä pohjasta että täyttömateriaalista irrota kiintoainesta, joka painuu pohjaan täyttöalueen ulkopuolelle. Pohjaan laskeutuvasta kiintoaineesta voi aiheutua haittaa pohjaeliöille. Ulkopuolelle aiheutuva haitta on kuitenkin lyhytkestoinen ja se rajoittuu täyttöalueen välittömään läheisyyteen, johtuen täyttöalueenkoosta sekä sijainnista osittain suojaisassa lahdessa. Näin ollen täyttötöiden pohjaeläimistölle aiheuttama haitta arvioidaan vähäiseksi.</p>\n<p>Hankkeella ei hakemuksen mukaan ole vaikutuksia luonnonsuojelualueisiin. Lähin kohde, Vuorilahdenpaaden luonnonsuojelualue, sijaitsee maalla noin 1,2 km etäisyydellä hankkeen suunnittelualueesta. Hankkeella ei ole vaikutusta lähialueella sijaitsevaan arvokkaaseen metsäkohteeseen (Laajasalo-Stansvik-Tullisaari) eikä arvokkaaseen geologiseen kohteeseen (silokallio, Huttuvati). Suunnittelualueella sijaitseva linnustollisesti arvokkaaksi luokiteltu luoto (Koiraluodot) tulee jäämään työmaa-alueelle ja myöhemmin luodoksi alueelle tulevaan vesiaiheeseen. Näin ollen työn aikaiset vaikutukset linnustoon tulevat olemaan haitallisia. Koiraluodot ovat pinta-alaltaan pieniä luotoja, joita vastaavia alueita on lukuisia Helsingin merialueella.</p>\n<p>Ruoppaus- ja täyttötöiden aloittamisesta ja päättämisestä ilmoitetaan alueelliselle ja paikalliselle ympäristöviranomaiselle. Suunnittelualueen täyttöihin käytettävän materiaalin laatua seurataan säännöllisesti. Eri purkukohteista tulevat materiaalit (betonit) tutkitaan erikseen, ennen niiden hyödyntämistä kohteessa.</p>\n<p>Kuorintaruoppaustyön aikana suunnittelualueen ympäristön vedenlaatua tarkkaillaan kolmessa tutkimuspisteessä. Tutkimuspisteet sijoitetaan suunnittelualueen välittömään läheisyyteen alueen pääasiallisen virtauksen suuntaan, sekä noin 600 m etäisyydelle Kruunuvuorenselälle. Näytteet otetaan ennen haitta-ainepitoisen sedimentin ruoppauksen aloittamista ja kuorintaruoppauksen aikana kerran kuukaudessa. Viimeiset vesinäytteet otetaan noin kuukauden kuluttua haitta-ainepitoisen sedimentin ruoppauksen valmistumisesta. Vesistön tarkkailua kuorintaruoppaustyön jälkeen jatketaan erillisen suunnitelman mukaan. Kruunuvuorenrannan alueen jatkotarkkailua varten laaditaan yhteistarkkailuohjelma, joka toimii samanaikaisesti useamman erillisen (Kruunuvuorenrannan aluerakentamisalueen) kohteen tarkkailuohjelmana.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51420,
+      "index": 7,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/461/",
+        "category_name": "Ympäristölupa",
+        "category_origin_id": "11 01 00 00",
+        "districts": [],
+        "geometries": [],
+        "id": 20991,
+        "last_modified_time": "2015-08-28T11:06:47.636757",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "ESAVI/1199/2015 ja ESAVI/1280/2015",
+        "register_id": "HEL 2014-011710",
+        "resource_uri": "/paatokset/v1/issue/20991/",
+        "slug": "hel-2014-011710",
+        "subject": "Ympäristölautakunnan lausunto kaupunginhallitukselle Koirasaarten ja Haakoninlahti 2:n kaava-alueiden ruoppauksesta, massojen läjityksestä mereen, merialueen täytöstä sekä betonijätteen hyödyntämisestä merialueen täytössä",
+        "summary": "Kaupunginhallitus pyytää ympäristönsuojeluviranomaisen lausuntoa Helsingin kaupungin rakennusviraston Etelä-Suomen aluehallintovirastoon jättämästä vesilain mukaisesta hakemuksesta, joka koskee Koirasaarten ja Haakoninlahti 2 kaava-alueiden ruoppausta, massojen läjitystä mereen ja merialueen täyttöä sekä ympäristölupahakemuksesta, joka koskee betonijätteen hyödyntämistä maa- ja vesirakentamisessa.",
+        "top_category_name": "Ympäristöasiat"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.625669",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2014-011710/ylk-2015-12/",
+      "preparer": "Ville Hahkala",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51420/",
+      "subject": "Ympäristölautakunnan lausunto kaupunginhallitukselle Koirasaarten ja Haakoninlahti 2:n kaava-alueiden ruoppauksesta, massojen läjityksestä mereen, merialueen täytöstä sekä betonijätteen hyödyntämisestä merialueen täytössä"
+    },
+    {
+      "attachments": [],
+      "classification_code": "08 00 00-20",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta antaa kaupunginhallitukselle seuraavan lausunnon koskien kaupunkisuunnittelulautakunnan esitystä Pasilansillan liikennesuunnitelmaksi.</p>\n<p>Pasilansilta on yksi tärkeä poikittaisen joukkoliikenteen käytävä sekä jalankulun ja pyöräilyn yhteys asemalle. Uusi suunnitelma yhdessä muiden alueen liikennejärjestelyjen kanssa tulee helpottamaan sillalla nykyisen vallitsevaa ruuhkaisuutta ja parantamaan huomattavasti joukkoliikenteen palvelutasoa sekä pyöräily- ja kävelyolosuhteita.</p>\n<p>Pasilan sillalla kulkee nykyisin keskimäärin 15 500 ajoneuvoa vuorokaudessa. Teollisuuskadun jatkeen myötä sillan autoliikenteen ennustetaan vähenevän huomattavasti: 4 800 ajoneuvoon vuorokaudessa. Yksityisautoliikenteen poistaminen kokonaan sillalta lisäisi entisestään kestävien liikkumismuotojen sujuvuutta ja erityisesti kävelijöiden, kulkumuodosta toiseen vaihtajien sekä pyöräilijöiden turvallisuutta.</p>\n<p>On erittäin tärkeää kestävien liikkumistapojen houkuttelevuuden ja turvallisuuden edistämiseksi, että eri liikkumismuodot on suunnitelmassa erotettu omille väylilleen.</p>\n<p>Joukkoliikenneterminaalin välittömään läheisyyteen tulisi varata riittävästi pyöräpysäköintipaikkoja liityntäliikennettä varten sekä huomioida kaupunkipyörien sijoittaminen.</p>",
+          "type": "draft statement"
+        },
+        {
+          "text": "<p>Kaupunginhallitus pyytää ympäristölautakunnan lausuntoa kaupunkisuunnitteluviraston esityksestä Pasilansillan liikennesuunnitelmaksi 4.9.2015 mennessä.</p>\n<p>Liikennesuunnitelma on tarkoitus viedä kaupunginvaltuuston hyväksyttäväksi alkusyksystä 2015. Uusi liikennesuunnitelma korvaa aikaisemman Pasilansillan suunnitelman.</p>\n<p>Suunnitelmassa Pasilan nykyisen sillan etäläpuolelle rakennetaan uusi, saman levyinen silta. Sillan keskelle varataan oma tila raitiovaunuliikenteelle ja sen molemmin puolin yhdet kaistat suuntaansa linja-autoille ja muulle ajoneuvoliikenteelle. Ajoratojen vieressä on korotetut pyöräkaistat. Jalkakäytävät sijaitsevat eteläpuolella koko sillan pituudella ja joukkoliikenneterminaalin kohdalla molemmin puolin. Sillan pohjoisreunalle on osoitettu paikkoja lyhytaikaiselle autopysäköinnille. Sillan keskivaiheille tulee korotettu suojatie ja pyörätien jatke.</p>\n<p>Juna-aseman edustalla kantaa levitetään noin 11 metriä ja siihen sijoitetaan joukkoliikenneterminaali, jossa raitiovaunuilla ja linja-autoilla on omat pysäkkinsä.</p>\n<p>Aseman edustalla oleville saattopaikoille on autoilla ajoyhteys sekä idän että lännen suunnista. Idän suunnasta yhteys on yksisuuntainen ja lännen suunnasta kaksisuuntainen, josta on myös mahdollisuus kääntyä sillalle molempiin suuntiin.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51419,
+      "index": 6,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/339/",
+        "category_name": "Liikennepolitiikan suunnittelu, kehittäminen, ohjaus ja ylläpito",
+        "category_origin_id": "08 00 00",
+        "districts": [],
+        "geometries": [],
+        "id": 6111,
+        "last_modified_time": "2015-08-28T11:06:47.590945",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2014-001489",
+        "resource_uri": "/paatokset/v1/issue/6111/",
+        "slug": "hel-2014-001489",
+        "subject": "Pasilansillan liikennesuunnitelma",
+        "summary": "Pasilansillan liikennesuunnitelmassa levitetään siltaa etelään, mikä mahdollistaa parempien tilojen osoittamista eri liikkumismuodoille.",
+        "top_category_name": "Liikenne"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.580999",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2014-001489/ylk-2015-12/",
+      "preparer": "Suvi Haaparanta",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51419/",
+      "subject": "Lausunto kaupunginhallitukselle Pasilansillan liikennesuunnitelmasta"
+    },
+    {
+      "attachments": [],
+      "classification_code": "08 00 00-20",
+      "classification_description": "esitys",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta antaa kaupunginhallitukselle seuraavan lausunnon koskien kaupunkisuunnitteluviraston esitystä Pasilan keskustakorttelin liikennesuunnitelmaksi.</p>\n<p>Ympäristökeskus ja ympäristölautakunta ovat korostaneet suunnitteluaikana ja aikaisemmissa Keski-Pasilan suunnittelua koskevissa lausunnoissaan liikenteen ilmanlaatu- ja meluvaikutusten huomioon ottamista keskustakorttelin alueella tulevan joukkoliikenneterminaalin odotustiloissa, kevyen liikenteen väylillä ja korttelin muissa liikkumisympäristöissä sekä asunnoissa.</p>\n<p>Veturien varrelle, keskustakortelin kohdalle suunnitelluilla bussipysäkeillä ilmanlaatu tulee olemaan huono ja melutaso korkea. Keskustakorttelin kohdalla kattaminen ja ympäröivät rakennukset estävät ilmansaasteiden laimenemista, mikä johtaa typpidioksidi- ja pienhiukkaspitoisuuksien nousuun. Liikennemääräennusteiden ja ilmanlaadun vertailumittausten perusteella arvioituna typpidioksidin raja-arvon ylittymisvaara on ilmeinen.</p>\n<p>Bussipysäkeillä oleilevien lisäksi myös jalkakäytävillä liikkuvat sekä välittömästi vilkkaasti liikennöityjen ajoratojen vieressä sijaitsevilla pyöräkaistoilla pyöräilevät altistuvat merkittäville ilmansaastepitoisuuksille ja melulle. Tämä voi vähentää pyöräilyn houkuttelevuutta. Ympäristölautakunta kehottikin aikaisemmin Veturien liikennesuunnitelmaa koskevassa lausunnossaan harkitsemaan pohjois-etelä -suuntaisten pyöräteiden sijoittamista esimerkiksi Pasilankadulle. On hyvä, jos vaihtoehtoista pyöräväylää kehitetään tarjoten pyöräilijöille mahdollisuus valita miellyttävämpi kulkureitti.</p>\n<p>Ihmisten altistumisen vähentämiseksi bussipysäkkejä ja katetun alueen jalkakäytävää ei tulisi sijoittaa samaan tilaan autoliikenteen kanssa, vaan tulisi selvittää mahdollisuutta eristää ne liikenteestä esimerkiksi lasiseinällä tai vastaavalla ratkaisulla siten, että tiloissa on oma erillinen ilmanvaihto.</p>\n<p>Typpidioksidin raja-arvo ylittyy Helsingin kantakaupungin vilkasliikenteisissä katukuiluissa. Ajoneuvoteknologian kehityksen odotetaan vähentävän typpidioksidipitoisuuksia tulevaisuudessa. Ajoneuvokannan uusiutuminen on kuitenkin hyvin hidasta, ja valitettavasti uusienkaan polttomoottoriautojen todelliset typenoksidipäästöt eivät ole täyttäneet niille asetettuja odotuksia ja määräyksiä. Uusien dieselautojen suorat typpidioksidipäästöt ovat jopa suurempia kuin vanhempien. Mallinnuksien mukaan ilmanlaatutilanne ei ole helpottumassa lähivuosina. Ongelmallisin tilanne on vilkkaasti liikennöidyillä väylillä, joilla ilmansaasteiden laimeneminen on estynyt kuilumaisen rakenteen, tunneloinnin tai kattamisen vuoksi. Uusia alueita, joilla raja-arvot ylittyvät ei tule rakentaa.</p>",
+          "type": "draft statement"
+        },
+        {
+          "text": "<p>Kaupunginhallitus pyytää ympäristölautakunnan lausuntoa kaupunkisuunnitteluviraston esityksestä Pasilan keskustakorttelin liikennesuunnitelmaksi 4.9.2015 mennessä.</p>\n<p>Pasilan keskustakorttelin alustava liikennesuunnitelma korvataan liikennesuunnitelmalla, joka on laadittu asemakaavaehdotuksen lausuntojen ja muistutusten käsittelyn yhteydessä. Liikennesuunnitelma on saman sisältöinen kuin alustava liikennesuunnitelma.</p>\n<p>Suunnitelma korvaa korttelin kohdalla osittain Veturitien liikennesuunnitelman. Suunnitelmassa Veturitien järjestelyitä on muutettu vastaamaan keskustakorttelin tulevia rakenteita. Pasilankadun ja Veturitien väliin on esitetty uusi katuyhteys, Firdonkatu. Kadulta on yhteys keskustakortteliin pysäköintilaitokseen sekä huoltopihalle kadun keskellä sijaitsevalta rampilta. Kadun itäpäähän on osoitettu tila huoltoajolle. Suunnitelma korvaa Firdonkadun länsipäässä osittain Pasilankadun liikennesuunnitelman.</p>\n<p>Korttelin eteläreunalle tulee uusi, päättyvä tonttikatu, Tornikuja. Katu toimii pääyhteytenä keskustakorttelin pysäköintilaitokseen. Korttelin päähuoltopihan ajo tapahtuu Tornikujan kautta. Lisäksi kadulta on varauduttu järjestämään yhteys tulevan tornialueen pysäköintilaitokseen. Kadun keskelle on varattu myös tila Pasilansillan eteläpuolelle tulevan kannen pilareille.</p>\n<p>Pasilan keskustakorttelin liikennesuunnitelma kuluu kokonaisuudessaan Pasilan keskustakorttelin asemakaavaan, joka hyväksyttiin kaupunginvaltuustossa 14.1.2015.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51418,
+      "index": 5,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/339/",
+        "category_name": "Liikennepolitiikan suunnittelu, kehittäminen, ohjaus ja ylläpito",
+        "category_origin_id": "08 00 00",
+        "districts": [],
+        "geometries": [],
+        "id": 7432,
+        "last_modified_time": "2015-08-28T11:06:47.537056",
+        "latest_decision_date": "2015-09-01",
+        "reference_text": "",
+        "register_id": "HEL 2014-009872",
+        "resource_uri": "/paatokset/v1/issue/7432/",
+        "slug": "hel-2014-009872",
+        "subject": "Pasilan keskustakorttelin alustava liikennesuunnitelma",
+        "summary": "Pasilan keskustakorttelin asemakaavassa Veturitien järjestelyitä sovitetaan vastaamaan keskustakorttelin rakenteita. Korttelin pohjoisreunalle tulee uusi katu Pasilankadun ja siirrettävän Veturitien väliin. Kadulta on yhteys keskustakorttelin pysäköintilaitokseen sekä huoltopihalle. Korttelin eteläreunalle toteutetaan uusi päättyvä tonttikatu, josta on yhteys keskustakorttelin pysäköintilaitokseen ja päähuoltopihalle sekä myös tulevan tornialueen pysäköintilaitokseen.",
+        "top_category_name": "Liikenne"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.520471",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2014-009872/ylk-2015-12/",
+      "preparer": "Suvi Haaparanta",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51418/",
+      "subject": "Lausunto kaupunginhallitukselle Pasilan keskustakorttelin liikennesuunnitelmasta"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51417/",
+          "confidentiality_reason": null,
+          "file_type": "pdf",
+          "file_uri": "http://dev.hel.fi/paatokset/media/att/96/968d4eaa0ad5fe00dbd9994ab82e440109ac3021.pdf",
+          "hash": "968d4eaa0ad5fe00dbd9994ab82e440109ac3021",
+          "id": 73648,
+          "name": "Vartiosaaren_osayleiskaavaluonnos_selostus_28042015",
+          "number": 1,
+          "public": true,
+          "resource_uri": "/paatokset/v1/attachment/73648/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51417/",
+          "confidentiality_reason": null,
+          "file_type": "pdf",
+          "file_uri": "http://dev.hel.fi/paatokset/media/att/95/953c38b5379e7b4464df05e7df22c8e2a78fe3ea.pdf",
+          "hash": "953c38b5379e7b4464df05e7df22c8e2a78fe3ea",
+          "id": 73649,
+          "name": "Osayleiskaavaluonnos_28042015",
+          "number": 2,
+          "public": true,
+          "resource_uri": "/paatokset/v1/attachment/73649/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51417/",
+          "confidentiality_reason": null,
+          "file_type": "pdf",
+          "file_uri": "http://dev.hel.fi/paatokset/media/att/ab/aba19492eb507dbfc47f90b568457d81d155d416.pdf",
+          "hash": "aba19492eb507dbfc47f90b568457d81d155d416",
+          "id": 73650,
+          "name": "Päätöshistoria HEL 2011-007765",
+          "number": 3,
+          "public": true,
+          "resource_uri": "/paatokset/v1/attachment/73650/"
+        }
+      ],
+      "classification_code": "10 03 02 00-30",
+      "classification_description": "esitys, julkinen",
+      "content": [
+        {
+          "text": "<p>Ympäristölautakunta antaa seuraavan lausunnon.</p>\n<p>Vartiosaareen on tutkittu osayleiskaavan suunnitteluperiaatteiden laadintaa varten kolmea erilaista maankäyttövaihtoehtoa: yhtä virkistyskäyttövaihtoehtoa ja kahta asuinaluevaihtoehtoa, jotka eroavat asukasmäärän, rakentamisen tehokkuuden ja joukkoliikenneratkaisun puolesta. Osayleiskaavaluonnos on hyväksyttyjen suunnitteluperiaatteiden mukainen, Vartiosaaresta suunnitellaan omaleimainen, monipuolisesti ja tiiviisti rakennettu kaupunginosa.</p>\n<p>Vartiosaaren kaavoitusprosessi on toteutettu hyvin ja prosessin aikana laaditut luontoarvojen ja rakennetun kulttuuriympäristön selvitykset ja arvioinnit ovat laadukkaita. Luontotietojärjestelmän tietoja on täydennetty yksityiskohtaisella lepakkoselvityksellä. Myöhemmin valmistunut Helsingin luonnonsuojeluohjelma 2015–2024 ja metsäverkostoselvitys -ehdotus ei muuta selvitysten ja arviointien antamaa yleiskuvaa, vaikka täsmentääkin metsänsuojelunäkökohtia. Päätöksentekijöillä on käytettävissään riittävä tieto kaavoitusratkaisujen arvioimiseksi.</p>\n<p>Vartiosaarta on muiden viheralueiden tapaan tarkasteltu parhaillaan lausunnolla olevassa luonnonsuojeluohjelma ja metsäverkostoselvitys -ehdotuksessa. Luonnonarvoiltaan monipuolisessa Vartiosaaressa on yksi hyvin pieni luonnonsuojelualue, joka kattaa Suomen ainoan rantaruttojuuren kasvupaikan. Luonnonsuojeluohjelmaa varten suoritetussa luonnonarvotarkastelussa, jossa luontotietojärjestelmään karttunutta tietoa summattiin, mikään Vartiosaaren osa-alue ei noussut ehdolle luonnonsuojeluohjelmaan.</p>\n<p>Saaren pinta-alasta valtaosa (64 ha) on metsäverkostoon kuuluvaa arvokasta metsää. Sen lisäksi saari on keskeinen solmukohta Laajasalon ja Ramsinniemen välissä. Metsäinen yhteys Meri-Rastilaan asti ylläpitää yhtä Helsingin vihersormista. Helsingin laajat, yhtenäiset yli 40 ha:n kokoiset metsäkokonaisuudet muodostavat monimuotoisia metsäisiä luonnon ”ydinalueita”, jotka ovat metsäverkoston kannalta keskeisiä.</p>\n<p>Luonnonsuojelulain mukaiset minimiedellytykset luonnonsuojelualueille ovat niin väljät, että Vartiosaari kokonaisuutena tai sen kaikki metsäalueet täyttäisivät vaatimukset. Vastaava tilanne on myös monilla muilla varovaisesti ulkoilumetsinä hoidetuilla viheralueilla. Vartiosaaren suurin arvo on luonnonarvojen, kulttuuriarvojen ja maisema-arvojen muodostama kokonaisuus, mikä ei nouse esiin luonnonsuojeluohjelmassa käytetyllä summamenetelmällä.</p>\n<p>Vartiosaari on kokoonsa ja laatuunsa nähden virkistysalueena alikäytössä. Virkistyskäyttöä rajoittaa saaren hankala saavutettavuus. Uuden yleiskaavaluonnoksen mitoituksen mukaan Laajasalon asukasluku kaksinkertaistuisi vuoteen 2050 mennessä. Myös muualla Itä-Helsingissä on odotettavissa huomattavia asukasmäärien lisäyksiä. Tämä kasvattaa Vartiosaaren virkistyskäyttöarvoa. Kaupunkiluonnon ihmisten terveyttä edistävästä vaikutuksesta saadaan jatkuvasti vahvempaa tutkimusnäyttöä. Kyseessä on ehkä merkittävin kaupunkiluonnon ekosysteemipalveluista.</p>\n<p>Ympäristölautakuntakunnan mielestä Vartiosaari tulisi säilyttää pääosin rakentamattomana koillisen, Ramsinniemeen ja Meri-Rastilaan ulottuvan, vihersormen osana.</p>\n<p>Mikäli osayleiskaavaluonnoksen mukaiseen asuinrakentamiseen päädytään, se tulee ympäristölautakunnan mielestä toteuttaa yleiskaavakauden loppupuolella raitiotieverkon toteutumisen aikataulussa. Saaren virkistyskäyttöä tulee kehittää jo sitä ennen. Tähän aiemmin tarkastelussa ollut virkistyskäyttövaihtoehto antaa hyvän pohjan. Erityisesti tulisi selvittää saaren saavutettavuuden parantamista joko vesiteitse tai kevyellä sillalla Laajasalon suunnasta.</p>",
+          "type": "draft statement"
+        },
+        {
+          "text": "<p>Kaupunkisuunnitteluvirasto pyytää lausuntoa 3.8.2015 mennessä. Lausunnolle on myönnetty lisäaikaa 31.8.2015 saakka.</p>\n<h3>Osayleiskaavaluonnoksen pääsisältö</h3>\n<p>Vartiosaari sijaitsee itäisessä Helsingissä, Laajasalon ja Vuosaaren välissä, noin 7 km linnuntietä Helsingin keskustasta. Suunnittelualueeseen kuuluvat Vartiosaari ja sen välittömässä läheisyydessä olevat Poikasaari, Kiekko, Ramsinkivi ja Kanasaari, ympäröivät merialueet sekä tarvittavat liittymisalueet mantereeseen Laajasalon Reposalmentien päässä ja Vuosaaressa Ramsinniemen kärjessä. Suunnittelualue on kooltaan noin 142 ha, josta maapinta-alaa on noin 82 ha ja merialuetta noin 60 ha.</p>\n<p>Vartiosaari osoitettiin vuoden 2002 yleiskaavassa selvitysalueeksi, jonka maankäyttö ratkaistaan yleiskaavalla tai osayleiskaavalla. Osayleiskaavatyö käynnistyi vuonna 2011. Osayleiskaavaluonnos on kaupunkisuunnittelulautakunnan hyväksymien Vartiosaaren osayleiskaavan suunnitteluperiaatteiden mukainen. Lautakunta edellytti, että osayleiskaavaan liitetään määräys, jonka mukaan rakentamista alueella ei saa aloittaa ennen kuin raitiovaunuyhteydestä saareen on tehty sitova päätös, ja että on selvitettävä, onko alueesta mahdollista tehdä vähäautoinen tietyin keinoin.</p>\n<p>Osayleiskaava-alueelle sijoittuu rakentamista kaikkiaan noin 300 000–350 000 k-m2. Asuinrakentamista on noin 270 000–320 000 k-m2 ja toimitiloja noin 30 000 k-m2. Alueelle tulee noin 5 000–7 000 asukasta ja noin 500 työpaikkaa. Rakentaminen jakaantuu kolmeen kylään siten, että kussakin on noin 100 000 k-m2 ja noin 2 000 asukasta.</p>\n<p>Vartiosaaren rakentaminen eheyttää kaupunkirakennetta ja tuo uusia joukkoliikenteen, pyöräilyn ja jalankulun yhteyksiä sekä virkistysreittejä Itä-Helsinkiin. Uusi asuinalue liittyy osaksi keskustasta Vuosaareen kulkevaa raitiotieverkostoa ja pyöräilyn laatukäytävää. Sillat liittävät Vartiosaaren myös osaksi Itä-Helsingin virkistysreittejä.</p>\n<p>Suunnittelun tavoitteena on energiatehokas kaupunkirakenne ja rakentaminen. Ilmastonmuutokseen sopeutumisen vuoksi suunnittelussa varaudutaan tulva- ja hulevesien sekä lumen hallintaan sekä sään ääri-ilmiöihin. Tavoitteena on monipuolisella kasvillisuudella kompensoida rakennettujen alueiden tuottamia kasvihuonekaasupäästöjä. Tavoitteena on myös uusiutuvien ja ympäristöä mahdollisimman vähän kuormittavien rakennusmateriaalien kuten puun käytön edistäminen.</p>\n<p>Perustamisolosuhteiltaan ongelmaton, meluton ja saasteeton Vartiosaari on moniin muihin aluerakentamiskohteisiin verrattuna helposti ja nopeasti saatavissa rakentamiskelpoiseksi ja kaavoitettavissa asuinkäyttöön.</p>\n<h3>Vaikutusten arviointi</h3>\n<p>Osayleiskaavan toteuttamisen vaikutuksia on arvioitu koko suunnittelutyön ajan. Vaikutuksia muun muassa luontoon ja terveyteen selostetaan kaavaselostuksessa. Lisäksi Vartiosaareen liittyvät selvitykset ovat löydettävissä Vartiosaaren suunnittelua käsitteleviltä nettisivustoilta.</p>\n<h3>Viestintä ja vuorovaikutus</h3>\n<p>Vartiosaaren osayleiskaavoitukseen voi osallistua suunnittelun eri vaiheissa. Suunnittelun etenemisestä ja vuorovaikutusmahdollisuuksista sekä -tilaisuuksista on tiedotettu tavanomaisten tapojen lisäksi uutiskirjeillä sen sähköpostiinsa tilanneille. Virallisten vuorovaikutusmahdollisuuksien lisäksi on järjestetty erilaisia keskustelutilaisuuksia asukkaiden, maanomistajien, asiantuntijoiden ja erilaisten toimijoiden kanssa. Vuorovaikutuksesta on laadittu vuorovaikutusraportti, jota täydennetään suunnitteluprosessin edetessä.</p>\n<h3>Aikataulu ja suunnitteluprosessi</h3>\n<p>Tavoitteena on, että osayleiskaavaehdotus hyväksyttäisiin kaupunkisuunnittelulautakunnassa syksyllä 2015 ja kaupunginvaltuustossa keväällä 2016. Asemakaavoitus voidaan käynnistää vuonna 2017. Vartiosaari asemakaavoitetaan vähintään kolmessa vaiheessa, kylä kerrallaan.</p>",
+          "type": "presenter"
+        }
+      ],
+      "from_minutes": false,
+      "id": 51417,
+      "index": 4,
+      "introducer": "Päivi Kippo-Edlund",
+      "issue": {
+        "category": "/paatokset/v1/category/417/",
+        "category_name": "Yleiskaavoitus",
+        "category_origin_id": "10 03 02 00",
+        "districts": [],
+        "geometries": [],
+        "id": 5440,
+        "last_modified_time": "2015-08-28T11:06:47.465386",
+        "latest_decision_date": "2015-08-25",
+        "reference_text": "",
+        "register_id": "HEL 2011-007765",
+        "resource_uri": "/paatokset/v1/issue/5440/",
+        "slug": "hel-2011-007765",
+        "subject": "Vartiosaaren osayleiskaavan suunnitteluperiaatteet",
+        "summary": "Vartiosaari osoitettiin vuoden 2002 yleiskaavassa selvitysalueeksi, jonka maankäyttö ratkaistaan yleiskaavalla tai osayleiskaavalla. Osayleiskaavatyö käynnistyi vuonna 2011 ja työn kuluessa on täydennetty alueen lähtötietoja mm. kulttuuriympäristön, luontoarvojen ja liikenteen osalta. Vartiosaareen on tutkittu suunnitteluperiaatteiden laadintaa varten kolmea erilaista maankäyttövaihtoehtoa: yhtä virkistysvaihtoehtoa ja kahta asuinaluevaihtoehtoa, jotka eroavat asukasmäärän, rakentamisen tehokkuuden ja joukkoliikenneratkaisun puolesta.",
+        "top_category_name": "Maankäyttö, rakentaminen ja asuminen"
+      },
+      "last_modified_time": "2015-08-28T11:06:47.269554",
+      "meeting": {
+        "date": "2015-08-25",
+        "id": 8033,
+        "minutes": false,
+        "number": 12,
+        "policymaker": "/paatokset/v1/policymaker/11/",
+        "policymaker_name": "Ympäristölautakunta",
+        "resource_uri": "/paatokset/v1/meeting/8033/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2011-007765/ylk-2015-12/",
+      "preparer": "Juha Korhonen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51417/",
+      "subject": "Ympäristölautakunnan lausunto kaupunkisuunnitteluvirastolle Vartiosaaren osayleiskaavaluonnoksesta"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Pohjoisen varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet:</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste </div> </td> <td> <div> Suljettu </div> </td> <td> <div> Peruste </div> </td> </tr> <tr> <td> <div> Päiväkoti Torpparinmäki </div> </td> <td> <div>                             14.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Valkea                           </div>                         </td>                         <td>                           <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Haltia                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Tammi                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Kytöniitty                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Pikkusuo                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävästä, kestoltaan korkeintaan kahden tunnin pituisesta poikkeuksesta aukioloajoissa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51902,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 15951,
+        "last_modified_time": "2015-08-28T11:06:45.144926",
+        "latest_decision_date": "2015-08-19",
+        "reference_text": "",
+        "register_id": "HEL 2015-000424",
+        "resource_uri": "/paatokset/v1/issue/15951/",
+        "slug": "hel-2015-000424",
+        "subject": "Toimipisteiden määräaikainen sulkeminen Pohjoisella varhaiskasvatusalueella ajalla 30.1.2015-6.2.2015",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:45.130585",
+      "meeting": {
+        "date": "2015-08-19",
+        "id": 8143,
+        "minutes": true,
+        "number": 9,
+        "policymaker": "/paatokset/v1/policymaker/271/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö9",
+        "resource_uri": "/paatokset/v1/meeting/8143/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-000424/851207-2015-9/",
+      "preparer": "Maarit Kemppainen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51902/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Pohjoisella varhaiskasvatusalueella 14.8. - 18.9.2015vuonna 2015"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Haaga - Kaarelan varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet:</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste</div> </td> <td> <div> Suljettu </div> </td> <td> <div> Peruste </div> </td> </tr> <tr> <td> <div> Päiväkoti Kaunokki </div> </td> <td> <div> 7.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Kylätie                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Haaga                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävästä, kestoltaan korkeintaan kahden tunnin pituisesta poikkeuksesta aukioloajoissa</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51901,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 16457,
+        "last_modified_time": "2015-08-28T11:06:44.681288",
+        "latest_decision_date": "2015-08-19",
+        "reference_text": "",
+        "register_id": "HEL 2015-001286",
+        "resource_uri": "/paatokset/v1/issue/16457/",
+        "slug": "hel-2015-001286",
+        "subject": "Toimipisteiden määräaikainen sulkeminen Haaga-Kaarelan varhaiskasvatusalueella ajalla 6.2.2015",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:44.668542",
+      "meeting": {
+        "date": "2015-08-19",
+        "id": 8142,
+        "minutes": true,
+        "number": 8,
+        "policymaker": "/paatokset/v1/policymaker/269/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö5",
+        "resource_uri": "/paatokset/v1/meeting/8142/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-001286/851205-2015-8/",
+      "preparer": "Maarit Kemppainen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51901/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Haaga-Kaarelan varhaiskasvatusalueella 7. - 18.9.2015"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Munkkiniemi - Pitäjänmäen varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet:</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste </div> </td> <td> <div> Suljettu </div> </td> <td> <div> Peruste </div> </td> </tr> <tr> <td> <div> Päiväkoti Kolkka </div> </td> <td> <div>                             4.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Pacius                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävästä, kestoltaan korkeintaan kahden tunnin pituisesta poikkeuksesta aukioloajoissa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51900,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 15359,
+        "last_modified_time": "2015-08-28T11:06:44.253688",
+        "latest_decision_date": "2015-08-19",
+        "reference_text": "",
+        "register_id": "HEL 2014-015198",
+        "resource_uri": "/paatokset/v1/issue/15359/",
+        "slug": "hel-2014-015198",
+        "subject": "Toimipisteen määräaikainen sulkeminen Munkkiniemi-Pitäjänmäen varhaiskasvatusalueella",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:44.238649",
+      "meeting": {
+        "date": "2015-08-19",
+        "id": 8141,
+        "minutes": true,
+        "number": 8,
+        "policymaker": "/paatokset/v1/policymaker/268/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö3",
+        "resource_uri": "/paatokset/v1/meeting/8141/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2014-015198/851204-2015-8/",
+      "preparer": "Maarit Kemppainen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51900/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Munkkiniemi-Pitäjänmäen varhaiskasvatusalueella 4. - 18.9.2015"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Kampinmalmi - Lauttasaari - Töölön varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet:</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste </div> </td> <td> <div> Suljettu </div> </td> <td> <div> Peruste </div> </td> </tr> <tr> <td> <div> Päiväkoti Pajalahti </div> </td> <td> <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Veijari                           </div>                         </td>                         <td>                           <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Leppäsuo                           </div>                         </td>                         <td>                           <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Riikka                           </div>                         </td>                         <td>                           <div>                             4.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Silkkiuikku                           </div>                         </td>                         <td>                           <div>                             4.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Lappi                           </div>                         </td>                         <td>                           <div>                             4.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Maria                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Telkkä                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Lunni                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Jaala                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävästä, kestoltaan korkeintaan kahden tunnin pituisesta poikkeuksesta aukioloajoissa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51899,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 15949,
+        "last_modified_time": "2015-08-28T11:06:43.779733",
+        "latest_decision_date": "2015-08-19",
+        "reference_text": "",
+        "register_id": "HEL 2015-000426",
+        "resource_uri": "/paatokset/v1/issue/15949/",
+        "slug": "hel-2015-000426",
+        "subject": "Toimipisteiden määräaikainen sulkeminen Kampinmalmi-Lauttasaari-Töölön varhaiskasvatusalueella ajalla 13.2.-27.2.2015",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:43.766854",
+      "meeting": {
+        "date": "2015-08-19",
+        "id": 8140,
+        "minutes": true,
+        "number": 9,
+        "policymaker": "/paatokset/v1/policymaker/267/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö2",
+        "resource_uri": "/paatokset/v1/meeting/8140/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-000426/851203-2015-9/",
+      "preparer": "Maarit Kemppainen",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51899/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Kampinmalmi-Lauttasaari-Töölön varhaiskasvatusalueella 28.8.-18.9.2015"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Jakomäki-Puistola-Suutarila varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet:</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste </div> </td> <td> <div> Suljettuna </div> </td> <td> <div> Perustelu </div> </td> </tr> <tr> <td> <div> Päiväkoti Pikkuprinssi </div> </td> <td> <div>                             28.08.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Suurmetsä                           </div>                         </td>                         <td>                           <div>                             04.09.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Nurkka                           </div>                         </td>                         <td>                           <div>                             11.09.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Savotta                           </div>                         </td>                         <td>                           <div>                             18.09.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Klaara                           </div>                         </td>                         <td>                           <div>                             25.09.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Vihtori                           </div>                         </td>                         <td>                           <div>                             25.09.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävistä, kestoltaan korkeintaan kahden tunnin poikkeuksesta aukioloajoissa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51898,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 16455,
+        "last_modified_time": "2015-08-28T11:06:43.216695",
+        "latest_decision_date": "2015-08-18",
+        "reference_text": "",
+        "register_id": "HEL 2015-001382",
+        "resource_uri": "/paatokset/v1/issue/16455/",
+        "slug": "hel-2015-001382",
+        "subject": "Toimipisteiden määräaikainen sulkeminen Jakomäki-Puistola-Suutarilan varhaiskasvatusalueella ajalla 16.2.-16.3.2015",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:43.204969",
+      "meeting": {
+        "date": "2015-08-18",
+        "id": 8139,
+        "minutes": true,
+        "number": 7,
+        "policymaker": "/paatokset/v1/policymaker/260/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö12",
+        "resource_uri": "/paatokset/v1/meeting/8139/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-001382/851209-2015-7/",
+      "preparer": "Mia Koski",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51898/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Jakomäki-Puistola-Suutarila varhaiskasvatusalueella ajalla 28.08.-25.09.2015"
+    },
+    {
+      "attachments": [],
+      "classification_code": "05 01 00-181",
+      "classification_description": "Viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Latokartanon varhaiskasvatusalueen päällikkö päätti sulkea määräaikaisesti seuraavat toimipisteet</p>\n<div> <table tabindex=\"-1\" class=\"msoUcTable\" bordercolor=\"buttontext\" border=\"1\"> <colgroup> <col> <col> <col> </colgroup> <tbody valign=\"top\"> <tr> <td> <div> Toimipiste </div> </td> <td> <div> Suljettu </div> </td> <td> <div> Perustelut </div> </td> </tr> <tr> <td> <div> Päiväkoti Auringonkukka </div> </td> <td> <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Leskenlehti                           </div>                         </td>                         <td>                           <div>                             28.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Maarianmaa                           </div>                         </td>                         <td>                           <div>                             31.8.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Pph Latokartano-Pukinmäki                           </div>                         </td>                         <td>                           <div>                             4.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Aulanko                           </div>                         </td>                         <td>                           <div>                             11.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Kamomilla                           </div>                         </td>                         <td>                           <div>                             14.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Vikkeri                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Satakieli                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                       <tr>                         <td>                           <div>                             Päiväkoti Tähkä                           </div>                         </td>                         <td>                           <div>                             18.9.2015                           </div>                         </td>                         <td>                           <div>                             Kehittämispäivä                           </div>                         </td>                       </tr>                     </tbody>                   </table>                 </div>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Varhaiskasvatuslautakunta päätti 5.2.2013 (9 §) määrätä varhaiskasvatusalueen päällikön päättämään oman toimistonsa osalta enintään viisi päivää kestävästä toimipisteiden sulkemisesta kokonaan tai osittain ja enintään viikon kestävästä, kestoltaan korkeintaan kahden tunnin pituisesta poikkeuksesta aukioloajoissa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51705,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/228/",
+        "category_name": "Lasten päivähoidon kehittäminen ja ohjaus",
+        "category_origin_id": "05 01 00",
+        "districts": [],
+        "geometries": [],
+        "id": 16454,
+        "last_modified_time": "2015-08-28T11:06:42.751465",
+        "latest_decision_date": "2015-08-19",
+        "reference_text": "",
+        "register_id": "HEL 2015-001402",
+        "resource_uri": "/paatokset/v1/issue/16454/",
+        "slug": "hel-2015-001402",
+        "subject": "Toimipisteiden määräaikainen sulkeminen Latokartanon varhaiskasvatusalueella ajalla 27.2.-20.3.2015",
+        "top_category_name": "Sosiaalitoimi"
+      },
+      "last_modified_time": "2015-08-28T11:06:42.737698",
+      "meeting": {
+        "date": "2015-08-19",
+        "id": 8090,
+        "minutes": true,
+        "number": 6,
+        "policymaker": "/paatokset/v1/policymaker/259/",
+        "policymaker_name": "Varhaiskasvatusalueen päällikkö10",
+        "resource_uri": "/paatokset/v1/meeting/8090/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:05:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-001402/851208-2015-6/",
+      "preparer": "Laura Sihvo",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51705/",
+      "subject": "Toimipisteiden määräaikainen sulkeminen Latokartanon varhaiskasvatusalueella ajalla 28.8.-18.9.2015"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51897/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74282,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74282/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51897/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74283,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74283/"
+        }
+      ],
+      "classification_code": "03 01 00-85",
+      "classification_description": "viranhaltijan päätös, julkinen",
+      "content": [
+        {
+          "text": "<p>Yksikönjohtaja päätti hyväksyä hakijan vahingonkorvausvaatimuksen 1500,00 euroa ajoneuvon puskurin vaurioitumisesta aiheutuneisiin kustannuksiin.</p>\n<p>Tämä päätös on ainoastaan Helsingin kaupungin rakentamispalvelun kannanotto korvausasiaan, eikä kyse ole korvausasian kaupunkia oikeudellisesti sitovasta ratkaisusta.</p>\n<p>Menotosite talousyksikköön ja pöytäkirjanote oikaisuvaatimusohjein Staran kaupunkitekniikan rakentamiselle, jonka tulee huolehtia asian tiedottamisesta asianosaisille.</p>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Hakemuksen mukaan hakija on ajanut autollaan 30.4.2015 noin klo 14.45 Kivikonkaarta pitkin, ylittäessään suojatiehidastetta talon numero 49 kohdalla hakijan ajoneuvon etupuskuri oli osunut kadulla olleeseen montun terävään reunaan. Tämän seurauksena puskuri oli vaurioitunut.</p>\n<p>Kyseisellä paikalla Kivikonkaarella on asennettu syksyllä 2014 korotetun suojatien poikittaiskiveys Staran toimesta. Autoliikenteen ja sadevesien vaikutuksesta kiveyksen ja asfaltin väliseen kylmäasfalttiin oli syöpynyt kyseiset kuopat, jolloin niihin ajettaessa hakijan mainitsemat vauriot ovat voineet syntyä. Työmaalla on ollut tietyöstä varoittavat merkit molemmissa päissä Kivikonkaari 41 ja 53 kohdilla sekä nopeusrajoitus 30km/h.</p>\n<p>Hakija on vaatinut Helsingin kaupungin Staraa korvaamaan hänelle etupuskurin vaurioiden korjaamisesta aiheutuvat kulut kustannusarvion mukaan yhteensä 1500,00 euroa.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51897,
+      "index": 3,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/207/",
+        "category_name": "Vahingonkorvausasiat",
+        "category_origin_id": "03 01 00",
+        "districts": [
+          {
+            "name": "Mellunkylä",
+            "type": "kaupunginosa"
+          },
+          {
+            "name": "Kivikko",
+            "type": "osa-alue"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "address",
+            "coordinates": [
+              25.05735600545988,
+              60.232311377393955
+            ],
+            "name": "Kivikonkaari 49",
+            "type": "Point"
+          }
+        ],
+        "id": 21239,
+        "last_modified_time": "2015-08-28T11:06:40.735318",
+        "latest_decision_date": "2015-08-26",
+        "reference_text": "",
+        "register_id": "HEL 2015-005705",
+        "resource_uri": "/paatokset/v1/issue/21239/",
+        "slug": "hel-2015-005705",
+        "subject": "Vahingonkorvaus, autovaurio, Kivikonkaari 49, Mellunkylä",
+        "top_category_name": "Lainsäädäntö ja lainsäädännön soveltaminen"
+      },
+      "last_modified_time": "2015-08-28T11:06:40.728649",
+      "meeting": {
+        "date": "2015-08-26",
+        "id": 8138,
+        "minutes": true,
+        "number": 30,
+        "policymaker": "/paatokset/v1/policymaker/177/",
+        "policymaker_name": "Yksikönjohtaja",
+        "resource_uri": "/paatokset/v1/meeting/8138/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:04:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-005705/531162vh1-2015-30/",
+      "preparer": "Juha M Lahti",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51897/",
+      "subject": "Vahingonkorvaus, autovaurio, Kivikonkaari 49, Mellunkylä"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51896/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74281,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74281/"
+        }
+      ],
+      "classification_code": "02 08 03 00-61",
+      "classification_description": "viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Yksikönjohtaja päätti hyväksyä Kivipaasi Oy:n 28.7.2015 antaman muutostyötarjouksen: Kourulaatan lisähinta kasvaneen koon vuoksi, hintaan 56 euroa / metri (AVL 8 c §).</p>\n<p>Muutostyön ennakoitu arvo on 1 428 euroa (AVL 8 c §).</p>\n<p>Pöytäkirjanote muutoksenhakukieltoineen tiedoksiantona päätöksestä asianosaiselle.</p>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Staran kaupunkitekniikan rakentaminen on maaliskuun alussa 2015 kilpailuttanut erillisen kivityöurakan Töölönlahden puiston itäreunan korttelialueiden kiveystöistä. Urakoitsijaksi valittiin Kivipaasi Oy, toimitusjohtajan päätös 25.3.2015 / 29 §. Samalla päätöksellä toimitusjohtaja päätti oikeuttaa kaupunkitekniikan rakentamisen yksikönjohtajan päättämään mahdollisista lisähankinnoista urakka-aikana hankintavaltuuksiensa puitteissa. Urakassa on aiemmin tilattu kaksi lisätyötä, yhteisarvoltaan 7 200 euroa. Tämä muutostyöpäätös nostaa lisätöiden arvon noin 8 628 euroon. Urakan alkuperäinen vertailuhinta oli 369 498 euroa (AVL 8 c §). Yksikönjohtajan hankintavaltuudet eivät tule ylittymään tämän päätöksen johdosta.</p>\n<p>Lisätyön tarve on aiheutunut kourulaatan koon muutoksesta. Tarjouspyynnön mukainen kapea kourulaatta vaihdettiin urakan aikana leveämmäksi. Urakoitsija on alkuperäisessä tarjouksessaan antanut hinnan kapealle kourulaatalle, tämä muutostyö hinta laskutetaan sen lisäksi. Muutostyön yksikköhinta yhdessä alkuperäisen yksikköhinnan kanssa sisältävät materiaalin ja kaikki laatoitukseen liittyvät työt. Muutostyötarjous on hintatasoltaan ja toimitusehdoiltaan hyväksyttävä.</p>\n<p>Hankintalain 28 §:n 3 momentin mukaan hankintayksikkö voi tehdä suorahankinnan, kun kyseessä on alkuperäisen toimittajan kanssa tehtävä uusi rakennusurakkasopimus tai palveluhankinta, joka vastaa aikaisemmin avointa menettelyä käyttäen tehtyä rakennusurakkaa. Edellytyksenä on, että alkuperäistä hankintaa koskevassa hankintailmoituksessa on mainittu mahdollisesta myöhemmästä lisätyöhankinnasta ja että lisäyön ennakoitu arvo on otettu huomioon laskettaessa alkuperäisen sopimuksen kokonaisarvoa. Tarjouspyyntöön on sisältynyt lisähankintamahdollisuus koskien Rakennusurakoiden yleisissä sopimusehdoissa (YSE 98) tarkoitettujen urakan suorittamiseksi tarpeellisten lisä- ja muutostöiden hankkimista varten.</p>\n<p>Tämän päätöksen pohjalta tehdään muutostyötilaus. Muutostyönä tilattu työvaihe lisätään urakan puitesopimukseen ja se on käytettävissä urakan aikana.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51896,
+      "index": 2,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/197/",
+        "category_name": "Kilpailutus",
+        "category_origin_id": "02 08 03 00",
+        "districts": [],
+        "geometries": [],
+        "id": 17876,
+        "last_modified_time": "2015-08-28T11:06:40.701859",
+        "latest_decision_date": "2015-08-26",
+        "reference_text": "",
+        "register_id": "HEL 2015-002036",
+        "resource_uri": "/paatokset/v1/issue/17876/",
+        "slug": "hel-2015-002036",
+        "subject": "Töölönlahden puiston radan puoleisen laidan kortteleiden puistoaukioiden luonnonkivityöt.",
+        "top_category_name": "Talousasiat, verotus ja omaisuuden hallinta"
+      },
+      "last_modified_time": "2015-08-28T11:06:40.691925",
+      "meeting": {
+        "date": "2015-08-26",
+        "id": 8138,
+        "minutes": true,
+        "number": 30,
+        "policymaker": "/paatokset/v1/policymaker/177/",
+        "policymaker_name": "Yksikönjohtaja",
+        "resource_uri": "/paatokset/v1/meeting/8138/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:04:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-002036/531162vh1-2015-30/",
+      "preparer": "Heikki Laristo",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51896/",
+      "subject": "Töölönlahden puiston radan puoleisen laidan kortteleiden puistoaukioiden luonnonkivityöt. Muutostyöpäätös nro 3."
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51895/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74280,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74280/"
+        }
+      ],
+      "classification_code": "02 08 03 00-61",
+      "classification_description": "viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Yksikönjohtaja päätti hyväksyä Lemminkäinen Infra Oy:n 27.5.2015 antaman lisätyötarjouksen; Ajoportti 2,5m x 2,0m, asennettuna, yksikköhintaan 1 400 euroa/kappale (AVL 8c §).</p>\n<p>Lisätyön ennakoitu arvo on 1 400 euroa (AVL 8c §).</p>\n<p>Pöytäkirjanote muutoksenhakukieltoineen tiedoksiantona päätöksestä asianosaiselle.</p>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Staran kaupunkitekniikan rakentamisen tekninen tuki on kilpailuttanut aitatöiden urakan alkuvuodesta 2015 avointa hankintamenettelyä käyttäen. Edullisimman hyväksytyn tarjouksen jättänyt Lemminkäinen Infra Oy valittiin sopimusurakoitsijaksi ajalle 1.4. - 30.11.2015, toimitusjohtajan päätös 20.3.2015 / 27 §. Yksikönjohtajalla on oikeus tilata lisä- ja muutostöitä teknisen palvelun lautakunnan päätöksen 7.5.2015 / 112 § mukaisesti. Urakan alkuperäinen vertailusumma oli 153 142 euroa (AVL 8 c §) ja urakassa on aiemmin tehty lisätyöpäätöksiä noin 17 404 eurolla. Urakan kokonaisarvo, lisä- ja muutostyöt sekä tämä kuudes lisätyö mukaan lukien, on 171 946 euroa. Yksikönjohtajalle myönnetty lisätilausoikeus ei ylity tämän lisätyöpäätöksen seurauksena.</p>\n<p>Hankintalain 28 §:n 3 momentin mukaan hankintayksikkö voi tehdä suorahankinnan, kun kyseessä on alkuperäisen toimittajan kanssa tehtävä uusi rakennusurakkasopimus tai palveluhankinta, joka vastaa aikaisemmin avointa menettelyä käyttäen tehtyä rakennusurakkaa. Edellytyksenä on, että alkuperäistä hankintaa koskevassa hankintailmoituksessa on mainittu mahdollisesta myöhemmästä lisätyöhankinnasta ja että lisäyön ennakoitu arvo on otettu huomioon laskettaessa alkuperäisen sopimuksen kokonaisarvoa. Tarjouspyyntöön on sisältynyt lisähankintamahdollisuus koskien Rakennusurakoiden yleisissä sopimusehdoissa (YSE 98) tarkoitettujen urakan suorittamiseksi tarpeellisten lisä- ja muutostöiden hankkimista varten.</p>\n<p>Lisätyön tarve on aiheutunut Korkeasaaren työkohteesta. Tarjottu lisätyö on sisällöltään, hintatasoltaan ja toimitusehdoiltaan hyväksyttävä.</p>\n<p>Tämän lisätyöpäätöksen pohjalta tehdään lisätyötilaus. Lisätyönä tilattu työvaihe liitetään urakan puitesopimukseen 4700002487 ja se on käytettävissä soveltuvissa kohteissa urakan aikana.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51895,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/197/",
+        "category_name": "Kilpailutus",
+        "category_origin_id": "02 08 03 00",
+        "districts": [],
+        "geometries": [],
+        "id": 17675,
+        "last_modified_time": "2015-08-28T11:06:40.670023",
+        "latest_decision_date": "2015-08-26",
+        "reference_text": "",
+        "register_id": "HEL 2015-001557",
+        "resource_uri": "/paatokset/v1/issue/17675/",
+        "slug": "hel-2015-001557",
+        "subject": "Stara, aitatyöt 2015",
+        "top_category_name": "Talousasiat, verotus ja omaisuuden hallinta"
+      },
+      "last_modified_time": "2015-08-28T11:06:40.659772",
+      "meeting": {
+        "date": "2015-08-26",
+        "id": 8138,
+        "minutes": true,
+        "number": 30,
+        "policymaker": "/paatokset/v1/policymaker/177/",
+        "policymaker_name": "Yksikönjohtaja",
+        "resource_uri": "/paatokset/v1/meeting/8138/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:04:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2015-001557/531162vh1-2015-30/",
+      "preparer": "Heikki Laristo",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51895/",
+      "subject": "Stara, aitatyöt 2015. Lisätyöpäätös nro 6"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51894/",
+          "confidentiality_reason": "HenkTL 13 §",
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74279,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74279/"
+        }
+      ],
+      "classification_code": "03 01 00-85",
+      "classification_description": "viranhaltijan päätös, julkinen",
+      "content": [
+        {
+          "text": "<p>Yksikönjohtaja päätti kumota aiemmin tehdyn päätöksen 19 § 23.9.2014 koskien autovauriota Riistavuorenkujalla 12.9.2014. Samaan asiaan liittyen yksikönjohtaja päättää korvata vakuutusyhtiölle takaisinsaantihakemuksen nojalla vaaditun summan (1030,81 euroa) samoin perustein kuin aiempi päätös on päätöshistorian mukaan tehty.</p>\n<p>Vahingonkorvaushakemuksessa 17.9.2014 hakija on ilmoittanut, että hänen ajoneuvonsa oikeanpuoleiseen takaoveen oli osunut ruohonleikkurista lentänyt kivi 12.9.2014. Auto oli ollut pysäköitynä Riistavuodenkuja 6 kohdalla.</p>\n<p>Pöytäkirjanote liitteineen ja oikaisuvaatimusohjeineen Staran kaupunkitekniikan ylläpidolle, jonka tulee huolehtia päätöksen tiedoksiannosta asianosaisille.</p>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Päätöksen kumoamisen syy on vakuutusyhtiön takaisinsaantihakemus samasta vahingosta ja se, että vahingonkärsijä ei saa päästä parempaan asemaan kuin missä olisi ollut ilman vahinkotapahtumaa (rikastumiskielto vahingon kahdenkertaisesta korvaamisesta).</p>\n<p>Stara ei ole maksanut myönnettyä korvausta korvausasian käsittelyn keskeneräisyyden vuoksi. Yksikönjohtajan aiemmassa päätöksessä 23.9.2014 hyväksyttiin vahingonkorvaushakemus, mutta hakemuksessa ei ollut tarkkaa erittelyä kaikista korvattavista kohdista.</p>\n<p>Hoitoyksikön selvityksessä myönnetään aiheutettu vahinko. Kaupunkitekniikan ylläpito on korvausvelvollinen.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51894,
+      "index": 1,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/207/",
+        "category_name": "Vahingonkorvausasiat",
+        "category_origin_id": "03 01 00",
+        "districts": [
+          {
+            "name": "Haaga",
+            "type": "kaupunginosa"
+          },
+          {
+            "name": "Etelä-Haaga",
+            "type": "osa-alue"
+          }
+        ],
+        "geometries": [
+          {
+            "category": "address",
+            "coordinates": [
+              24.886093153844243,
+              60.21871310548306
+            ],
+            "name": "Riistavuorenkuja 6",
+            "type": "Point"
+          }
+        ],
+        "id": 12836,
+        "last_modified_time": "2015-08-28T11:06:40.147306",
+        "latest_decision_date": "2015-08-21",
+        "reference_text": "",
+        "register_id": "HEL 2014-011495",
+        "resource_uri": "/paatokset/v1/issue/12836/",
+        "slug": "hel-2014-011495",
+        "subject": "Vahingonkorvaushakemuksen hyväksyminen, autovaurio Riistavuorenkujalla",
+        "top_category_name": "Lainsäädäntö ja lainsäädännön soveltaminen"
+      },
+      "last_modified_time": "2015-08-28T11:06:40.140257",
+      "meeting": {
+        "date": "2015-08-21",
+        "id": 8137,
+        "minutes": true,
+        "number": 13,
+        "policymaker": "/paatokset/v1/policymaker/176/",
+        "policymaker_name": "Yksikönjohtaja",
+        "resource_uri": "/paatokset/v1/meeting/8137/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:04:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2014-011495/531142vh1-2015-13/",
+      "preparer": "Ville Alatyppö",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51894/",
+      "subject": "Vahingonkorvaushakemuksen hyväksyminen, autovaurio Riistavuorenkujalla, oikaisupäätös"
+    },
+    {
+      "attachments": [
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51893/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74277,
+          "name": null,
+          "number": 1,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74277/"
+        },
+        {
+          "agenda_item": "/paatokset/v1/agenda_item/51893/",
+          "confidentiality_reason": null,
+          "file_type": null,
+          "file_uri": null,
+          "hash": null,
+          "id": 74278,
+          "name": null,
+          "number": 2,
+          "public": false,
+          "resource_uri": "/paatokset/v1/attachment/74278/"
+        }
+      ],
+      "classification_code": "02 08 03 00-61",
+      "classification_description": "viranhaltijan päätös",
+      "content": [
+        {
+          "text": "<p>Yksikönjohtaja päätti oikeuttaa korjausrakentamisen työpäällikön tilaamaan Käpylän pelastusaseman sääsuojan halvimman tarjouksen tehneeltä Ramirent Finland Oy:ltä kokonaishintaan 20 040,00 euroa AVL 8 c §, Y-tunnus 0201256-6.</p>\n<p>Lisäksi yksikönjohtaja päätti oikeuttaa työpäällikön tilaamaan urakassa mahdollisesti syntyviä lisä- ja muutostöitä ennakoivaan hintaan 3 006,00 euroa AVL 8 c §.</p>\n<p>Urakan ennakoiva kokonaishinta lisä- ja muutostöineen on 23 046,00 euroa AVL 8 c §.</p>\n<p>Pöytäkirjanote muutoksenhakuohjeineen ja liitteineen korjausrakentamisen toimistolle, jonka tulee huolehtia päätöksen tiedoksiannoista asianosaisille.</p>",
+          "type": "resolution"
+        },
+        {
+          "text": "<p>Hankintamenettelynä käytetään rakennustelinetöiden puitejärjestelyn minikilpailutusta. Tarjouksen valintaperusteena on halvin hinta.</p>\n<p>Tarjouspyyntöasiakirjat rakennustelinetöiden puitesopimusurakoitsijat saivat 3.7.2015 internet-osoitteesta \"www.tarjouspalvelu.fi\".</p>\n<p>Tarjouspyynnön mukaisen ja hyväksyttävän tarjouksen jätti määräaikaan mennessä yhteensä viisi (5) urakoitsijaa.</p>\n<ul type=\"disc\"> <li> Ramirent Finland Oy </li> <li> Cramo Finland Oy </li> <li> Kas-Telineet Oy </li> <li> Arme Oy </li> <li> Telinekataja Oy </li> </ul>\n<p>Tekninen tuki on tarkastanut urakoitsijaksi esitettävän yrityksen tilaajavastuulain 1233/2006 5 § tilaajan selvitysvelvollisuuteen kuuluvat tilaajan velvoitteet ja todistukset, sekä todennut niiden olevan hyväksyttäviä.</p>\n<p>Hankintasopimus ei synny tällä päätöksellä, vaan myöhemmin tehtävällä kirjallisella tilauksella.</p>",
+          "type": "reasons for resolution"
+        }
+      ],
+      "from_minutes": true,
+      "id": 51893,
+      "index": 2,
+      "introducer": null,
+      "issue": {
+        "category": "/paatokset/v1/category/197/",
+        "category_name": "Kilpailutus",
+        "category_origin_id": "02 08 03 00",
+        "districts": [],
+        "geometries": [],
+        "id": 6345,
+        "last_modified_time": "2015-08-28T11:06:39.729568",
+        "latest_decision_date": "2015-08-24",
+        "reference_text": "",
+        "register_id": "HEL 2013-015291",
+        "resource_uri": "/paatokset/v1/issue/6345/",
+        "slug": "hel-2013-015291",
+        "subject": "Rakennustelinetöiden puitesopimus vuodelle 2014",
+        "summary": "Rakennustekniikka käytti hankintamenettelynä hankintalain mukaista avointa menettelyä ja hankintailmoitus julkaistiin Internet-osoitteessa ”www.hankintailmoitukset.fi” kansalliset kynnysarvot ylittävänä hankintana 5.12.2013. Tarjouspyynnössä mainittiin, että sopimuksen tekemisen perusteena on halvin hinta ja puutteellisia tai poikkeavia hintatietoja ja omia hinnanmääräytymis- tai muutosehtoja sisältävät tarjoukset hylätään.",
+        "top_category_name": "Talousasiat, verotus ja omaisuuden hallinta"
+      },
+      "last_modified_time": "2015-08-28T11:06:39.717083",
+      "meeting": {
+        "date": "2015-08-24",
+        "id": 8136,
+        "minutes": true,
+        "number": 25,
+        "policymaker": "/paatokset/v1/policymaker/175/",
+        "policymaker_name": "Yksikönjohtaja",
+        "resource_uri": "/paatokset/v1/meeting/8136/",
+        "year": 2015
+      },
+      "origin_last_modified_time": "2015-08-28T11:04:00",
+      "permalink": "http://dev.hel.fi/paatokset/asia/hel-2013-015291/531132vh1-2015-25/",
+      "preparer": "Erna Muraja",
+      "resolution": null,
+      "resource_uri": "/paatokset/v1/agenda_item/51893/",
+      "subject": "Rakennustelinetyöt, minikilpailutus, Käpylän pelastusasema"
+    }
+  ]
+}

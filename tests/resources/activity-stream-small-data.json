@@ -1,0 +1,52 @@
+{
+  "@context": "http://www.w3.org/ns/activitystreams",
+  "@type": "OrderedCollection",
+  "orderedItems": [
+    {
+      "@context": "http://www.w3.org/ns/activitystreams",
+      "actor": {
+        "@type": "Group",
+        "displayName": "Ympäristölautakunta",
+        "@id": "http://dev.hel.fi/paatokset/v1/policymaker/11/"
+      },
+      "published": "2015-08-28T11:06:47.879150",
+      "@type": "Add",
+      "target": {
+        "??content": "????",
+        "@type": "Content",
+        "displayName": "Elintarvikelain 13 pykälän mukainen hakemus Heinon Tukku Oy:n liha-, kala- ja maitoalan laitoksen toiminnan olennaisesta muutoksesta",
+        "@id": "http://dev.hel.fi/paatokset/v1/issue/20995/"
+      },
+      "object": {
+        "url": "http://dev.hel.fi/paatokset/asia/hel-2015-006929/ylk-2015-12/",
+        "@type": "Content",
+        "displayName": "Elintarvikelain 13 pykälän mukainen hakemus Heinon Tukku Oy:n liha-, kala- ja maitoalan laitoksen toiminnan olennaisesta muutoksesta",
+        "@id": "http://dev.hel.fi/paatokset/v1/agenda_item/51427/",
+        "??content": "??>>"
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/activitystreams",
+      "actor": {
+        "@type": "Group",
+        "displayName": "Ympäristölautakunta",
+        "@id": "http://dev.hel.fi/paatokset/v1/policymaker/11/"
+      },
+      "published": "2015-08-28T11:06:47.844642",
+      "@type": "Add",
+      "target": {
+        "??content": "????",
+        "@type": "Content",
+        "displayName": "Elintarvikelain 13 §:n mukainen hakemus Lihakauppa Roslund Ky:n liha-alan laitoksen toiminnan olennaisesta muutoksesta",
+        "@id": "http://dev.hel.fi/paatokset/v1/issue/20994/"
+      },
+      "object": {
+        "url": "http://dev.hel.fi/paatokset/asia/hel-2015-007493/ylk-2015-12/",
+        "@type": "Content",
+        "displayName": "Elintarvikelain 13 §:n mukainen hakemus Lihakauppa Roslund Ky:n liha-alan laitoksen toiminnan olennaisesta muutoksesta",
+        "@id": "http://dev.hel.fi/paatokset/v1/agenda_item/51426/",
+        "??content": "??>>"
+      }
+    }
+  ]
+}
