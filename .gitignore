@@ -59,3 +59,6 @@ target/
 # pyvenv environment
 venv/
 .idea/
+
+# Mac OSX Cruft
+.DS_Store
