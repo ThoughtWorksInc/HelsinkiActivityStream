@@ -76,3 +76,8 @@ class ToActivityStreamTest(unittest.TestCase):
                           {'@context': 'http://www.w3.org/ns/activitystreams',
                            '@type': 'OrderedCollection',
                            'orderedItems': []})
+
+    def test_that_agenda_items_are_converted_to_activities(self):
+        result = convert.to_activity_stream({'objects': [STUB_AGENDA_ITEM]})
+        self.assertEquals(result['orderedItems'],
+                          [convert.agenda_item_to_activity(STUB_AGENDA_ITEM)])

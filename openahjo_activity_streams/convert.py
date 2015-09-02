@@ -48,7 +48,8 @@ def agenda_item_to_activity(agenda_item):
 def to_activity_stream(openahjo_data):
     return {'@context': 'http://www.w3.org/ns/activitystreams',
             '@type': 'OrderedCollection',
-            'orderedItems': []}
+            'orderedItems': [agenda_item_to_activity(item)
+                             for item in openahjo_data.get('objects', [])]}
 
 
 def identity_converter(openahjo_data):

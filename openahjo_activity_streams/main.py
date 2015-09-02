@@ -2,36 +2,22 @@ import flask
 from openahjo_activity_streams import convert
 import requests
 
-
-def get_test_client():
-    """
-    :rtype : FlaskClient
-    :return: the flask test client
-    """
-
-    return app.test_client()
+OPENAHJO_URL = 'http://dev.hel.fi/paatokset/v1/agenda_item/'
 
 
-def set_remote_url(url):
-    app.config['REMOTE_URL'] = url
+def create_app(remote_url=OPENAHJO_URL, converter=convert.to_activity_stream):
+    application = flask.Flask(__name__)
+    application.config['REMOTE_URL'] = remote_url
+    application.config['CONVERTER'] = converter
 
+    @application.route('/')
+    def show_something():
+        openahjo_data = requests.get(application.config['REMOTE_URL'])
+        converted_data = application.config['CONVERTER'](openahjo_data.json())
+        return flask.jsonify(converted_data)
 
-def set_converter_to(converter):
-    app.config['CONVERTER'] = converter
+    return application
 
-app = flask.Flask(__name__)
-set_remote_url('http://dev.hel.fi/paatokset/v1/agenda_item/')
-set_converter_to(convert.identity_converter)
-
-
-@app.route('/')
-def show_something():
-    openahjo_data = requests.get(app.config['REMOTE_URL'])
-    converted_data = app.config['CONVERTER'](openahjo_data.json())
-    return flask.jsonify(converted_data)
-
-
+app = create_app()
 if __name__ == '__main__':
     app.run()
-
-

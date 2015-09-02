@@ -6,21 +6,20 @@ import tests.data_server
 import json
 
 
-class MainTestCase(unittest.TestCase):
+class WithTestServer(unittest.TestCase):
     def setUp(self):
-        self.app = main.get_test_client()
-
-
-class BootstrapTest(MainTestCase):
-    def setUp(self):
-        main \
-            .set_remote_url('http://localhost:3000/test.json')
-        super(BootstrapTest, self).setUp()
         self._test_data_server = tests.data_server.TestServer()
 
     def tearDown(self):
         self._test_data_server.stop()
-        super(BootstrapTest, self).tearDown()
+
+
+class BootstrapTest(WithTestServer):
+    def setUp(self):
+        super(BootstrapTest, self).setUp()
+        self.app = main.create_app(
+            remote_url='http://localhost:3000/test.json',
+            converter=convert.identity_converter).test_client()
 
     def test_root_serves_json(self):
         response_data = self.app.get('/').get_data().decode()
@@ -36,19 +35,14 @@ def load_json_from_file(file_name):
         return json.load(f)
 
 
-@unittest.skip("20150902 DM + RP --- ignored until converter implemented")
-class EndToEndTest(MainTestCase):
+class EndToEndTest(WithTestServer):
     def setUp(self):
-        main.set_remote_url('http://localhost:3000/openahjo-small-data.json')
         super(EndToEndTest, self).setUp()
-        self._test_data_server = tests.data_server.TestServer()
-
-    def tearDown(self):
-        self._test_data_server.stop()
-        super(EndToEndTest, self).tearDown()
+        self.app = main.create_app(
+            remote_url='http://localhost:3000/openahjo-small-data.json',
+            converter=convert.to_activity_stream).test_client()
 
     def test_end_to_end_with_stub_data(self):
-        main.set_converter_to(convert.to_activity_stream)
         response_data = self.app.get('/').get_data().decode()
         response_as_dictionary = json.loads(response_data)
         expected_data = load_json_from_file('activity-stream-small-data.json')
