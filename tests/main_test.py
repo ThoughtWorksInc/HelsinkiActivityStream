@@ -1,13 +1,13 @@
 import unittest
 
 import flask.json
-import main
+import openahjo_activity_streams.main
 import tests.data_server
 
 
 class MainTestCase(unittest.TestCase):
     def setUp(self):
-        self.app = main.app.test_client()
+        self.app = openahjo_activity_streams.main.app.test_client()
 
 
 class BootstrapTest(MainTestCase):
@@ -20,8 +20,9 @@ class BootstrapTest(MainTestCase):
         super(BootstrapTest, self).tearDown()
 
     def test_root_serves_json(self):
-        response = self.app.get('/')
-        response_as_dictionary = flask.json.JSONDecoder().decode(response.get_data().decode())
+        response_data = self.app.get('/').get_data().decode()
+        response_as_dictionary = flask.json.JSONDecoder() \
+            .decode(response_data)
         assert response_as_dictionary['a'] == 1
         assert response_as_dictionary['b'] == 'This is a test!'
 
