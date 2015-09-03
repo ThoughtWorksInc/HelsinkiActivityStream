@@ -40,7 +40,6 @@ def agenda_item_to_target(agenda_item):
 
 def agenda_item_to_activity(agenda_item):
     return {
-        '@context': 'http://www.w3.org/ns/activitystreams',
         '@type': 'Add',
         'published': agenda_item['last_modified_time'],
         'actor': agenda_item_to_actor(agenda_item),

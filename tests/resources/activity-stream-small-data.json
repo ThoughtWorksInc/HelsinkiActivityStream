@@ -3,7 +3,6 @@
   "@type": "OrderedCollection",
   "orderedItems": [
     {
-      "@context": "http://www.w3.org/ns/activitystreams",
       "actor": {
         "@type": "Group",
         "displayName": "Ympäristölautakunta",
@@ -26,7 +25,6 @@
       }
     },
     {
-      "@context": "http://www.w3.org/ns/activitystreams",
       "actor": {
         "@type": "Group",
         "displayName": "Ympäristölautakunta",
