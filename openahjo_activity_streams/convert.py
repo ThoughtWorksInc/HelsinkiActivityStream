@@ -40,6 +40,7 @@ def agenda_item_to_target(agenda_item):
 
 def agenda_item_to_activity(agenda_item):
     return {
+        '@context': 'http://www.w3.org/ns/activitystreams',
         '@type': 'Add',
         'published': agenda_item['last_modified_time'],
         'actor': agenda_item_to_actor(agenda_item),
@@ -49,10 +50,8 @@ def agenda_item_to_activity(agenda_item):
 
 
 def to_activity_stream(openahjo_data):
-    return {'@context': 'http://www.w3.org/ns/activitystreams',
-            '@type': 'OrderedCollection',
-            'orderedItems': [agenda_item_to_activity(item)
-                             for item in openahjo_data.get('objects', [])]}
+    return [agenda_item_to_activity(item)
+            for item in openahjo_data.get('objects', [])]
 
 
 def identity_converter(openahjo_data):

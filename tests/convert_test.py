@@ -91,14 +91,8 @@ class AgendaItemToTargetWhenNoIssueSummaryTest(unittest.TestCase):
 
 
 class ToActivityStreamTest(unittest.TestCase):
-    def test_that_result_has_envelope_headers(self):
-        result = convert.to_activity_stream({})
-        self.assertEquals(result,
-                          {'@context': 'http://www.w3.org/ns/activitystreams',
-                           '@type': 'OrderedCollection',
-                           'orderedItems': []})
 
     def test_that_agenda_items_are_converted_to_activities(self):
         result = convert.to_activity_stream({'objects': [EXAMPLE_AGENDA_ITEM]})
-        self.assertEquals(result['orderedItems'],
+        self.assertEquals(result,
                           [convert.agenda_item_to_activity(EXAMPLE_AGENDA_ITEM)])

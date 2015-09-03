@@ -47,10 +47,12 @@ class EndToEndTest(WithTestServer):
             converter=convert.to_activity_stream).test_client()
 
     def test_end_to_end_with_stub_data(self):
-        response_data = self.app.get('/').get_data().decode()
+        response = self.app.get('/')
+        response_data = response.get_data().decode()
         response_as_dictionary = json.loads(response_data)
         expected_data = load_json_from_file('activity-stream-small-data.json')
         self.assertEquals(response_as_dictionary, expected_data)
+        self.assertEquals('application/activity+json', response.mimetype)
 
 
 if __name__ == '__main__':
