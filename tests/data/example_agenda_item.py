@@ -1,4 +1,8 @@
-STUB_AGENDA_ITEM = {
+# Copyright (c) 2015 ThoughtWorks
+#
+# See the file LICENSE for copying permission.
+
+EXAMPLE_AGENDA_ITEM = {
     "attachments": [
         {
             "agenda_item": "/paatokset/v1/agenda_item/51427/",

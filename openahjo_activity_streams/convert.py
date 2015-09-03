@@ -1,3 +1,7 @@
+# Copyright (c) 2015 ThoughtWorks
+#
+# See the file LICENSE for copying permission.
+
 OPENAHJO_BASE_URL = 'http://dev.hel.fi'
 
 

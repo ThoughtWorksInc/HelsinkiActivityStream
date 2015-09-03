@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (c) 2015 ThoughtWorks
+#
+# See the file LICENSE for copying permission.
 
 pip install -q -r requirements.txt
 pip install -q -r requirements_for_tests.txt

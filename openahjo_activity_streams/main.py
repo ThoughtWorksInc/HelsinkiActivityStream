@@ -1,3 +1,7 @@
+# Copyright (c) 2015 ThoughtWorks
+#
+# See the file LICENSE for copying permission.
+
 import flask
 from openahjo_activity_streams import convert
 import requests
