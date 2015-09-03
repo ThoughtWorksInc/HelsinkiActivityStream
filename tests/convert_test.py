@@ -55,6 +55,10 @@ class AgendaItemToObjectTest(unittest.TestCase):
         self.assertEquals(self._result['url'],
                           EXAMPLE_AGENDA_ITEM['permalink'])
 
+    def test_that_object_content_comes_from_first_agend_item_content_text_property(self):
+        self.assertEquals(self._result['content'],
+                          EXAMPLE_AGENDA_ITEM['content'][0]['text'])
+
 
 class AgendaItemToTargetTest(unittest.TestCase):
     def setUp(self):
@@ -71,6 +75,18 @@ class AgendaItemToTargetTest(unittest.TestCase):
     def test_that_target_display_name_comes_from_the_issue_subject(self):
         self.assertEquals(self._result['displayName'],
                           EXAMPLE_AGENDA_ITEM['issue']['subject'])
+
+    def test_that_target_content_comes_from_the_issue_summary(self):
+        self.assertEquals(self._result['content'],
+                          EXAMPLE_AGENDA_ITEM['issue']['summary'])
+
+class AgendaItemToTargetWhenNoIssueSummaryTest(unittest.TestCase):
+
+    def test_that_target_content_is_empty(self):
+        agenda_item_without_issue_summary = EXAMPLE_AGENDA_ITEM.copy()
+        agenda_item_without_issue_summary['issue'].pop('summary')
+        result = convert.agenda_item_to_target(agenda_item_without_issue_summary)
+
 
 
 class ToActivityStreamTest(unittest.TestCase):

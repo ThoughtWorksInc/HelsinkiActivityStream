@@ -24,7 +24,7 @@ def agenda_item_to_object(agenda_item):
         '@id': resolve_url(agenda_item['resource_uri']),
         'url': agenda_item['permalink'],
         'displayName': agenda_item['subject'],
-        '??content': '??>>',
+        'content': agenda_item['content'][0]['text'],
     }
 
 
@@ -34,7 +34,7 @@ def agenda_item_to_target(agenda_item):
         '@type': 'Content',
         '@id': resolve_url(issue['resource_uri']),
         'displayName': issue['subject'],
-        '??content': '????',
+        'content': issue.get('summary', ''),
     }
 
 
