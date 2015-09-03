@@ -3,6 +3,7 @@
 # See the file LICENSE for copying permission.
 
 import unittest
+import copy
 
 from openahjo_activity_streams import convert
 from tests.data.example_agenda_item import EXAMPLE_AGENDA_ITEM
@@ -32,6 +33,14 @@ class AgendaItemToActorTest(unittest.TestCase):
     def test_that_actor_display_name_comes_from_policymaker_name(self):
         self.assertEquals(self._result['displayName'],
                           EXAMPLE_AGENDA_ITEM['meeting']['policymaker_name'])
+
+
+class AgendaItemToObjectWhenNoContentRecordsExist(unittest.TestCase):
+    def test_that_content_is_empty(self):
+        agenda_item_with_no_content = copy.deepcopy(EXAMPLE_AGENDA_ITEM)
+        agenda_item_with_no_content['content'].clear()
+        result = convert.agenda_item_to_object(agenda_item_with_no_content)
+        self.assertEquals(result['content'], '')
 
 
 class AgendaItemToObjectTest(unittest.TestCase):
@@ -84,7 +93,7 @@ class AgendaItemToTargetTest(unittest.TestCase):
 class AgendaItemToTargetWhenNoIssueSummaryTest(unittest.TestCase):
 
     def test_that_target_content_is_empty(self):
-        agenda_item_without_issue_summary = EXAMPLE_AGENDA_ITEM.copy()
+        agenda_item_without_issue_summary = copy.deepcopy(EXAMPLE_AGENDA_ITEM)
         agenda_item_without_issue_summary['issue'].pop('summary')
         result = convert.agenda_item_to_target(agenda_item_without_issue_summary)
         self.assertEquals(result['content'], '')

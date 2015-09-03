@@ -24,8 +24,12 @@ def agenda_item_to_object(agenda_item):
         '@id': resolve_url(agenda_item['resource_uri']),
         'url': agenda_item['permalink'],
         'displayName': agenda_item['subject'],
-        'content': agenda_item['content'][0]['text'],
+        'content': get_content_text(agenda_item),
     }
+
+
+def get_content_text(agenda_item):
+    return agenda_item['content'][0]['text'] if agenda_item['content'] else ''
 
 
 def agenda_item_to_target(agenda_item):

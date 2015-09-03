@@ -8,7 +8,7 @@ import requests
 import logging
 import json
 
-OPENAHJO_URL = 'http://dev.hel.fi/paatokset/v1/agenda_item/'
+OPENAHJO_URL = 'http://dev.hel.fi/paatokset/v1/agenda_item/?order_by=-last_modified_time'
 
 
 def create_app(remote_url=OPENAHJO_URL, converter=convert.to_activity_stream):
