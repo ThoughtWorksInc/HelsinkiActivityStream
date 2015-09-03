@@ -80,13 +80,14 @@ class AgendaItemToTargetTest(unittest.TestCase):
         self.assertEquals(self._result['content'],
                           EXAMPLE_AGENDA_ITEM['issue']['summary'])
 
+
 class AgendaItemToTargetWhenNoIssueSummaryTest(unittest.TestCase):
 
     def test_that_target_content_is_empty(self):
         agenda_item_without_issue_summary = EXAMPLE_AGENDA_ITEM.copy()
         agenda_item_without_issue_summary['issue'].pop('summary')
         result = convert.agenda_item_to_target(agenda_item_without_issue_summary)
-
+        self.assertEquals(result['content'], '')
 
 
 class ToActivityStreamTest(unittest.TestCase):
