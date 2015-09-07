@@ -22,7 +22,7 @@ class BootstrapTest(WithTestServer):
     def setUp(self):
         super(BootstrapTest, self).setUp()
         self.app = main.create_app(
-            remote_url='http://localhost:3000/test.json',
+            remote_url='http://localhost:5000/test.json',
             converter=convert.identity_converter).test_client()
 
     def test_root_serves_json(self):
@@ -43,7 +43,7 @@ class EndToEndTest(WithTestServer):
     def setUp(self):
         super(EndToEndTest, self).setUp()
         self.app = main.create_app(
-            remote_url='http://localhost:3000/openahjo-small-data.json',
+            remote_url='http://localhost:5000/openahjo-small-data.json',
             converter=convert.to_activity_stream).test_client()
 
     def test_end_to_end_with_stub_data(self):

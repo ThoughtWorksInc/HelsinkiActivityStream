@@ -6,7 +6,7 @@ import http.server
 import multiprocessing
 import os
 
-TEST_FIXTURE_SERVER_PORT = 3000
+TEST_FIXTURE_SERVER_PORT = 5000
 
 
 class TestFixtureRequestHandler(http.server.SimpleHTTPRequestHandler):
