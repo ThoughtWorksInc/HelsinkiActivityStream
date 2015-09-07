@@ -1,8 +1,10 @@
 # Copyright (c) 2015 ThoughtWorks
 #
 # See the file LICENSE for copying permission.
+from datetime import datetime
 
 OPENAHJO_BASE_URL = 'http://dev.hel.fi'
+OPENAHJO_DATE_FORMAT = '%Y-%m-%dT%H:%M:%S.%f'
 
 
 def resolve_url(path):
@@ -42,11 +44,16 @@ def agenda_item_to_target(agenda_item):
     }
 
 
+def agenda_item_to_published(agenda_item):
+    datetime_object = datetime.strptime(agenda_item['last_modified_time'], OPENAHJO_DATE_FORMAT)
+    return datetime_object.isoformat()[:-3] + 'Z'
+
+
 def agenda_item_to_activity(agenda_item):
     return {
         '@context': 'http://www.w3.org/ns/activitystreams',
         '@type': 'Add',
-        'published': agenda_item['last_modified_time'],
+        'published': agenda_item_to_published(agenda_item),
         'actor': agenda_item_to_actor(agenda_item),
         'object': agenda_item_to_object(agenda_item),
         'target': agenda_item_to_target(agenda_item),

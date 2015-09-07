@@ -18,6 +18,16 @@ class AgendaItemToActivityTest(unittest.TestCase):
         self.assertEquals(self._result['@type'], 'Add')
 
 
+class AgendaItemToPublishedTest(unittest.TestCase):
+    def test_that_published_is_correct_date_time_format(self):
+        self._result = convert.agenda_item_to_published(EXAMPLE_AGENDA_ITEM)
+        self.assertEquals(self._result, '2015-08-28T11:06:47.879Z')
+
+    def test_that_published_is_correct_date_time_format_with_truncation_and_zero_padding(self):
+        self._result = convert.agenda_item_to_published({"last_modified_time": "2015-08-28T11:06:47.005678"})
+        self.assertEquals(self._result, '2015-08-28T11:06:47.005Z')
+
+
 class AgendaItemToActorTest(unittest.TestCase):
     def setUp(self):
         super(AgendaItemToActorTest, self).setUp()
