@@ -21,11 +21,15 @@ class AgendaItemToActivityTest(unittest.TestCase):
 class AgendaItemToPublishedTest(unittest.TestCase):
     def test_that_published_is_correct_date_time_format(self):
         self._result = convert.agenda_item_to_published(EXAMPLE_AGENDA_ITEM)
-        self.assertEquals(self._result, '2015-08-28T11:06:47.879Z')
+        self.assertEquals(self._result, '2015-08-28T11:06:47+03:00')
 
-    def test_that_published_is_correct_date_time_format_with_truncation_and_zero_padding(self):
+    def test_that_published_is_correct_date_time_format_summer_time(self):
         self._result = convert.agenda_item_to_published({"last_modified_time": "2015-08-28T11:06:47.005678"})
-        self.assertEquals(self._result, '2015-08-28T11:06:47.005Z')
+        self.assertEquals(self._result, '2015-08-28T11:06:47+03:00')
+
+    def test_that_published_is_correct_date_time_format_winter_time(self):
+        self._result = convert.agenda_item_to_published({"last_modified_time": "2014-12-28T11:06:47.005678"})
+        self.assertEquals(self._result, '2014-12-28T11:06:47+02:00')
 
 
 class AgendaItemToActorTest(unittest.TestCase):

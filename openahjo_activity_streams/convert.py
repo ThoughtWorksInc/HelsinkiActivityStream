@@ -2,9 +2,11 @@
 #
 # See the file LICENSE for copying permission.
 from datetime import datetime
+from pytz import timezone
 
 OPENAHJO_BASE_URL = 'http://dev.hel.fi'
 OPENAHJO_DATE_FORMAT = '%Y-%m-%dT%H:%M:%S.%f'
+OPENAHJO_TIME_ZONE = 'Europe/Helsinki'
 
 
 def resolve_url(path):
@@ -46,7 +48,9 @@ def agenda_item_to_target(agenda_item):
 
 def agenda_item_to_published(agenda_item):
     datetime_object = datetime.strptime(agenda_item['last_modified_time'], OPENAHJO_DATE_FORMAT)
-    return datetime_object.isoformat()[:-3] + 'Z'
+    datetime_object_without_microseconds = datetime_object.replace(microsecond=0)
+    datetime_in_tz = timezone(OPENAHJO_TIME_ZONE).localize(datetime_object_without_microseconds)
+    return datetime_in_tz.isoformat()
 
 
 def agenda_item_to_activity(agenda_item):
