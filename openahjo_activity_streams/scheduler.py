@@ -37,9 +37,3 @@ def stop_after(the_clock, seconds):
         return the_clock.now() > stop_time
 
     return stop_when
-
-
-if __name__ == "__main__":
-    clock = Clock()
-    s = Scheduler(interval=1, clock=clock, stop_when=stop_after(clock, 10))
-    s.start()

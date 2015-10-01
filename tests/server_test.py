@@ -6,14 +6,14 @@ import unittest
 import json
 
 import flask.json
-from openahjo_activity_streams import convert, main
+from openahjo_activity_streams import convert, server
 from tests.data_server import WithTestServer
 
 
 class BootstrapTest(WithTestServer):
     def setUp(self):
         super(BootstrapTest, self).setUp()
-        self.app = main.create_app(
+        self.app = server.create_app(
             remote_url='http://localhost:5000/test.json',
             converter=convert.identity_converter).test_client()
 
@@ -34,7 +34,7 @@ def load_json_from_file(file_name):
 class EndToEndTest(WithTestServer):
     def setUp(self):
         super(EndToEndTest, self).setUp()
-        self.app = main.create_app(
+        self.app = server.create_app(
             remote_url='http://localhost:5000/openahjo-small-data.json',
             converter=convert.to_activity_stream).test_client()
 

@@ -25,7 +25,7 @@ Install development dependencies and run tests and linter with:
 
 At the repository root execute the following from the command line:
     
-    > python -m openahjo_activity_streams.main
+    > python -m openahjo_activity_streams.server
 
 # Hosting
 
