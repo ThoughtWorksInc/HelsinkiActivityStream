@@ -20,18 +20,40 @@ def later_than(clock, stopping_time):
     return stop_when
 
 
-class SchedulerTest(unittest.TestCase):
-    def test_schedules_and_runs_some_events_then_exits(self):
-        clock = StubClock()
-        s = oas_s.Scheduler(interval=1, clock=clock, stop_when=later_than(clock, 5))
+class Event:
+    def __init__(self):
+        self._called = False
 
-        assert clock.now() == 0
-        assert s.number_of_executed_events() == 0
+    def execute(self):
+        self._called = True
+
+    def was_called(self):
+        return self._called
+
+
+class SchedulerTest(unittest.TestCase):
+    def setUp(self):
+        self.clock = StubClock()
+        self.event = Event()
+
+    def test__schedules_and_runs_some_events_then_exits(self):
+        s = oas_s.Scheduler(interval=1, clock=self.clock, stop_when=later_than(self.clock, 5), event=self.event.execute)
+
+        assert self.clock.now() == 0
+        assert self.event.was_called() == False
 
         s.start()
 
-        assert clock.now() >= 5
-        assert s.number_of_executed_events() > 0
+        assert self.clock.now() >= 5
+        assert self.event.was_called() == True
+
+    def test__does_not_run_event_if_stopping_condition_is_met(self):
+
+        s = oas_s.Scheduler(interval=1, clock=self.clock, stop_when=later_than(self.clock, 0), event=self.event.execute)
+
+        assert self.event.was_called() == False
+        s.start()
+        assert self.event.was_called() == False
 
 
 if __name__ == '__main__':
