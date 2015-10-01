@@ -95,29 +95,56 @@ class ScrapeAndPushTest(unittest.TestCase):
 
 
 class ScraperTest(unittest.TestCase):
-    def test__scrapes_source_endpoint_for_new_data(self):
-        coracle_latest_published_time_endpoint = 'http://coracle.endpoint.org/latest_published_activity_timestamp'
-        openahjo_endpoint = 'http://openahjo.endpoint.org/agenda_item/'
-        query_string = '?last_modified_time__gte=2015-09-01T00%3A00%3A00.000Z&order_by=last_modified_time'
-
-        openahjo_endpoint_with_query_string = openahjo_endpoint + query_string
-
-        with responses.RequestsMock() as rsps:
-            rsps.add(responses.GET, coracle_latest_published_time_endpoint,
-                     body='{"latest-published-timestamp": "2015-09-01T00:00:00.000Z"}', status=200,
-                     content_type="application/json")
-            rsps.add(responses.GET, openahjo_endpoint_with_query_string,
-                     body="""{"meta":{"limit": 20,
+    def setUp(self):
+        self.coracle_timestamp_endpoint = 'http://coracle.endpoint.org/latest_published_activity_timestamp'
+        self.coracle_timestamp_response_body = '{"latest-published-timestamp": "2015-09-01T00:00:00.000Z"}'
+        self.openahjo_endpoint = 'http://openahjo.endpoint.org/agenda_item/'
+        self.openahjo_response_body = """{"meta":{"limit": 20,
                                       "next": null,
                                       "offset": 0,
                                       "previous": null,
                                       "total_count": 0},
-                              "objects": [{"Object": "123"}]}""", status=200,
+                              "objects": [{"Object": "123"}]}"""
+
+    def test__scrapes_source_endpoint_for_new_data(self):
+        query_string = '?last_modified_time__gte=2015-09-01T00%3A00%3A00.000Z&order_by=last_modified_time'
+
+        openahjo_endpoint_with_query_string = self.openahjo_endpoint + query_string
+
+        with responses.RequestsMock() as rsps:
+            rsps.add(responses.GET, self.coracle_timestamp_endpoint,
+                     body=self.coracle_timestamp_response_body, status=200,
+                     content_type="application/json")
+            rsps.add(responses.GET, openahjo_endpoint_with_query_string,
+                     body=self.openahjo_response_body, status=200,
                      content_type="application/json",
                      match_querystring=True)
 
-            scrape = sap.scraper(coracle_endpoint=coracle_latest_published_time_endpoint,
-                                 openahjo_endpoint=openahjo_endpoint)
+            scrape = sap.scraper(coracle_endpoint=self.coracle_timestamp_endpoint,
+                                 openahjo_endpoint=self.openahjo_endpoint)
             agenda_items = scrape()
 
             self.assertEquals(agenda_items, [{'Object': '123'}])
+
+    def test__raises_ScraperFailureException_when_GET_on_coracle_endpoint_fails(self):
+        with responses.RequestsMock() as rsps:
+            rsps.add(responses.GET, self.coracle_timestamp_endpoint,
+                     status=500)
+
+            scrape = sap.scraper(coracle_endpoint=self.coracle_timestamp_endpoint,
+                                 openahjo_endpoint=self.openahjo_endpoint)
+
+            self.assertRaises(ex.ScrapeFailureException, scrape)
+
+    def test__raises_ScraperFailureException_when_GET_on_openahjo_endpoint_fails(self):
+        with responses.RequestsMock() as rsps:
+            rsps.add(responses.GET, self.coracle_timestamp_endpoint,
+                     body=self.coracle_timestamp_response_body, status=200,
+                     content_type="application/json")
+            rsps.add(responses.GET, self.openahjo_endpoint,
+                     status=500)
+
+            scrape = sap.scraper(coracle_endpoint=self.coracle_timestamp_endpoint,
+                                 openahjo_endpoint=self.openahjo_endpoint)
+
+            self.assertRaises(ex.ScrapeFailureException, scrape)
