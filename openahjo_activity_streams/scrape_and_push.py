@@ -38,9 +38,11 @@ def scraper(coracle_endpoint, openahjo_endpoint):
     return scrape
 
 
-def pusher(coracle_endpoint):
+def pusher(coracle_endpoint, bearer_token):
     def push(item):
-        response = requests.post(coracle_endpoint, json=item)
+        response = requests.post(coracle_endpoint,
+                                 json=item,
+                                 headers={'bearer_token': bearer_token})
 
         if response.status_code != 201:
             raise ex.PushFailureException

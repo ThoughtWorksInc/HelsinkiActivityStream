@@ -154,6 +154,7 @@ class ScraperTest(unittest.TestCase):
 class PusherTest(unittest.TestCase):
     def setUp(self):
         self.coracle_post_activity_endpoint = 'http://coracle.endpoint.org/add-activity'
+        self.coracle_bearer_token = 'secret'
 
     def test__pushes_activity_to_coracle(self):
         item = {'@type': 'Create'}
@@ -161,16 +162,30 @@ class PusherTest(unittest.TestCase):
             rsps.add(responses.POST, self.coracle_post_activity_endpoint,
                      status=201)
 
-            push = sap.pusher(coracle_endpoint=self.coracle_post_activity_endpoint)
+            push = sap.pusher(coracle_endpoint=self.coracle_post_activity_endpoint,
+                              bearer_token=self.coracle_bearer_token)
             push(item)
 
             self.assertEquals(json.loads(rsps.calls[0].request.body), item)
+
+    def test__sets_bearer_token_in_POST_request(self):
+        item = {'@type': 'Create'}
+        with responses.RequestsMock() as rsps:
+            rsps.add(responses.POST, self.coracle_post_activity_endpoint,
+                     status=201)
+
+            push = sap.pusher(coracle_endpoint=self.coracle_post_activity_endpoint,
+                              bearer_token=self.coracle_bearer_token)
+            push(item)
+
+            self.assertEquals(rsps.calls[0].request.headers.get('bearer_token'), self.coracle_bearer_token)
 
     def test__raises_PushFailureException_when_POST_to_coracle_endpoint_fails(self):
         with responses.RequestsMock() as rsps:
             rsps.add(responses.POST, self.coracle_post_activity_endpoint,
                      status=500)
 
-            push = sap.pusher(coracle_endpoint=self.coracle_post_activity_endpoint)
+            push = sap.pusher(coracle_endpoint=self.coracle_post_activity_endpoint,
+                              bearer_token=self.coracle_bearer_token)
 
             self.assertRaises(ex.PushFailureException, push, {})
