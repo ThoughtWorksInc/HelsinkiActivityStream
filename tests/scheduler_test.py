@@ -39,21 +39,21 @@ class SchedulerTest(unittest.TestCase):
     def test__schedules_and_runs_some_events_then_exits(self):
         s = oas_s.Scheduler(interval=1, clock=self.clock, stop_when=later_than(self.clock, 5), event=self.event.execute)
 
-        assert self.clock.now() == 0
-        assert self.event.was_called() == False
+        self.assertEquals(self.clock.now(), 0)
+        self.assertFalse(self.event.was_called())
 
         s.start()
 
-        assert self.clock.now() >= 5
-        assert self.event.was_called() == True
+        self.assertGreaterEqual(self.clock.now(), 5)
+        self.assertTrue(self.event.was_called())
 
     def test__does_not_run_event_if_stopping_condition_is_met(self):
 
         s = oas_s.Scheduler(interval=1, clock=self.clock, stop_when=later_than(self.clock, 0), event=self.event.execute)
 
-        assert self.event.was_called() == False
+        self.assertFalse(self.event.was_called())
         s.start()
-        assert self.event.was_called() == False
+        self.assertFalse(self.event.was_called())
 
 
 if __name__ == '__main__':
