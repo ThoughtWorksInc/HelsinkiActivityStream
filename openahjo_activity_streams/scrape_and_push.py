@@ -36,3 +36,13 @@ def scraper(coracle_endpoint, openahjo_endpoint):
         return agenda_items
 
     return scrape
+
+
+def pusher(coracle_endpoint):
+    def push(item):
+        response = requests.post(coracle_endpoint, json=item)
+
+        if response.status_code != 201:
+            raise ex.PushFailureException
+
+    return push
