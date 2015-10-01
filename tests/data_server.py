@@ -5,6 +5,7 @@
 import http.server
 import multiprocessing
 import os
+import unittest
 
 TEST_FIXTURE_SERVER_PORT = 5000
 
@@ -32,3 +33,11 @@ class TestServer(object):
 
     def stop(self):
         self._process.terminate()
+
+
+class WithTestServer(unittest.TestCase):
+    def setUp(self):
+        self._test_data_server = TestServer()
+
+    def tearDown(self):
+        self._test_data_server.stop()

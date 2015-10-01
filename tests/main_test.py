@@ -3,19 +3,11 @@
 # See the file LICENSE for copying permission.
 
 import unittest
+import json
 
 import flask.json
 from openahjo_activity_streams import convert, main
-import tests.data_server
-import json
-
-
-class WithTestServer(unittest.TestCase):
-    def setUp(self):
-        self._test_data_server = tests.data_server.TestServer()
-
-    def tearDown(self):
-        self._test_data_server.stop()
+from tests.data_server import WithTestServer
 
 
 class BootstrapTest(WithTestServer):
