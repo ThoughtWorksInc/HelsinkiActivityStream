@@ -1,0 +1,1 @@
+python -m openahjo_activity_streams.scrape_to_coracle
