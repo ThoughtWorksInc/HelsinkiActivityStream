@@ -17,5 +17,5 @@ if __name__ == "__main__":
                                                  convert=convert.agenda_item_to_activity,
                                                  push=push)
     clock = Clock()
-    s = Scheduler(interval=1, clock=clock, stop_when=stop_after(clock, 10))
+    s = Scheduler(interval=1, clock=clock, stop_when=stop_after(clock, 10), event=scrape_and_push_event_loop)
     s.start()
