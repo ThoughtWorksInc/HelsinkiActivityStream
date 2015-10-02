@@ -1,3 +1,4 @@
+import logging
 import openahjo_activity_streams.exceptions as ex
 import requests
 
@@ -23,6 +24,10 @@ def scraper(coracle_endpoint, openahjo_endpoint):
             raise ex.ScrapeFailureException
 
         latest_published_time = coracle_timestamp_response.json().get('latest-published-timestamp')
+        if latest_published_time is not None:
+            logging.info("successful request for latest_published_time " + latest_published_time)
+        else:
+            logging.info("no latest_published_time is returned")
 
         agenda_response = requests.get(openahjo_endpoint,
                                        params={'order_by': 'last_modified_time',
@@ -32,7 +37,7 @@ def scraper(coracle_endpoint, openahjo_endpoint):
             raise ex.ScrapeFailureException
 
         agenda_items = agenda_response.json().get('objects')
-
+        logging.info("scraped " + str(len(agenda_items)) + " items from OpenAhjo")
         return agenda_items
 
     return scrape
@@ -44,6 +49,7 @@ def pusher(coracle_endpoint, bearer_token):
                                  json=item,
                                  headers={'bearer_token': bearer_token})
 
+        logging.info("pushing to " + coracle_endpoint + " response " + str(response.status_code))
         if response.status_code != 201:
             raise ex.PushFailureException
 

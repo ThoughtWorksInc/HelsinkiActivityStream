@@ -1,3 +1,4 @@
+import logging
 import os
 from openahjo_activity_streams import convert
 from openahjo_activity_streams.scheduler import Clock, stop_after
@@ -13,6 +14,7 @@ if __name__ == "__main__":
     scrape = scraper(coracle_timestamp_endpoint, openahjo_endpoint)
     push = pusher(coracle_post_activity_endpoint, bearer_token)
 
+    logging.basicConfig(level=logging.INFO)
     scrape_and_push_event_loop = scrape_and_push(scrape=scrape,
                                                  convert=convert.agenda_item_to_activity,
                                                  push=push)
