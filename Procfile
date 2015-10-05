@@ -1,1 +1,1 @@
-web: gunicorn openahjo_activity_streams.server:app
+web: gunicorn openahjo_activity_streams.server:application
