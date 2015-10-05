@@ -1,5 +1,6 @@
 import logging
 import os
+import sys
 import flask
 from openahjo_activity_streams import convert
 from openahjo_activity_streams.scheduler import Clock, stop_after
@@ -8,6 +9,7 @@ from openahjo_activity_streams.scrape_and_push import scraper, pusher, scrape_an
 
 
 def create_scheduler():
+    print >> sys.stderr, "application debug #1"
     logging.basicConfig(level=logging.INFO)
     application = flask.Flask(__name__, instance_path=os.environ['INSTANCE_PATH'])
     coracle_timestamp_endpoint = os.environ['CORACLE_TIMESTAMP_ENDPOINT']
