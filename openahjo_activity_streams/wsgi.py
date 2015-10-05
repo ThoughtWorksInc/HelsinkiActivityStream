@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 
-from openahjo_activity_streams.server import app as application
+from openahjo_activity_streams.server import application
 
 virtenv = os.path.join(os.environ.get('OPENSHIFT_PYTHON_DIR', '.'), 'virtenv')
 

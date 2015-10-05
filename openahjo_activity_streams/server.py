@@ -26,6 +26,6 @@ def create_app(remote_url=OPENAHJO_URL, converter=convert.to_activity_stream):
 
     return application
 
-app = create_app()
+application = create_app()
 if __name__ == '__main__':
-    app.run()
+    application.run()
