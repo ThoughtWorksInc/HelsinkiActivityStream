@@ -1,0 +1,24 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+VAGRANTFILE_API_VERSION = "2"
+
+Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
+
+  config.vm.box = "ubuntu/trusty64"
+
+  config.vm.define "deployment", primary: true do |dev|
+    dev.vm.network "private_network", ip: "192.168.50.55"
+    dev.vm.network :forwarded_port, guest: 22, host: 2222, id: "ssh", auto_correct: false
+
+    dev.vm.provider :virtualbox do |vbox|
+      vbox.customize ["modifyvm", :id, "--memory", 1024]
+    end
+
+    dev.vm.provision "ansible" do |ansible|
+      ansible.playbook = "deployment_playbook.yml"
+      ansible.inventory_path = "deployment.inventory"
+      ansible.sudo = true
+    end
+  end
+end

@@ -1,0 +1,6 @@
+---
+ - hosts: deployment
+
+   roles:
+    - common
+    - python
