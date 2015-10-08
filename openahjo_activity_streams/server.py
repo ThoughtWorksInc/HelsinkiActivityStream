@@ -1,7 +1,6 @@
 # Copyright (c) 2015 ThoughtWorks
 #
 # See the file LICENSE for copying permission.
-import os
 
 import flask
 from openahjo_activity_streams import convert
@@ -14,7 +13,7 @@ OPENAHJO_URL = 'http://dev.hel.fi/paatokset/v1/agenda_item/?order_by=-last_modif
 
 def create_app(remote_url=OPENAHJO_URL, converter=convert.to_activity_stream):
     logging.basicConfig(level=logging.INFO)
-    application = flask.Flask(__name__, instance_path=os.environ['INSTANCE_PATH'])
+    application = flask.Flask(__name__)
     application.config['REMOTE_URL'] = remote_url
     application.config['CONVERTER'] = converter
 
