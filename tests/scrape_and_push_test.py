@@ -197,7 +197,7 @@ class PusherTest(unittest.TestCase):
                               bearer_token=self.coracle_bearer_token)
             push(item)
 
-            self.assertEquals(rsps.calls[0].request.headers.get('bearer_token'), self.coracle_bearer_token)
+            self.assertEquals(rsps.calls[0].request.headers.get('bearer-token'), self.coracle_bearer_token)
 
     def test__raises_PushFailureException_when_POST_to_coracle_endpoint_fails(self):
         with responses.RequestsMock() as rsps:
