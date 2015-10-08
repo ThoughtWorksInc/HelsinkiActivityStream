@@ -9,7 +9,7 @@ from openahjo_activity_streams.scrape_and_push import scraper, pusher, scrape_an
 
 def create_scheduler():
     logging.basicConfig(level=logging.INFO)
-    application = flask.Flask(__name__, instance_path=os.environ['INSTANCE_PATH'])
+    application = flask.Flask(__name__)
     coracle_timestamp_endpoint = os.environ['CORACLE_TIMESTAMP_ENDPOINT']
     coracle_post_activity_endpoint = os.environ['CORACLE_POST_ACTIVITY_ENDPOINT']
     openahjo_endpoint = os.environ['OPENAHJO_ENDPOINT']
