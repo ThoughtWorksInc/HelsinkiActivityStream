@@ -47,7 +47,7 @@ def pusher(coracle_endpoint, bearer_token):
     def push(item):
         response = requests.post(coracle_endpoint,
                                  json=item,
-                                 headers={'bearer_token': bearer_token})
+                                 headers={'bearer-token': bearer_token})
 
         logging.info("pushing to " + coracle_endpoint + " response " + str(response.status_code))
         if response.status_code != 201:
