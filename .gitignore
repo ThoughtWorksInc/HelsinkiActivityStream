@@ -62,3 +62,4 @@ venv/
 
 # Mac OSX Cruft
 .DS_Store
+.vagrant
