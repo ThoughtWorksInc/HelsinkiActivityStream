@@ -23,7 +23,7 @@ def create_scheduler():
                                                  convert=convert.agenda_item_to_activity,
                                                  push=push)
     clock = Clock()
-    s = Scheduler(interval=1, clock=clock, stop_when=lambda: False, event=scrape_and_push_event_loop)
+    s = Scheduler(interval=3600, clock=clock, stop_when=lambda: False, event=scrape_and_push_event_loop)
     s.start()
 
     return application

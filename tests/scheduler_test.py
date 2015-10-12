@@ -1,4 +1,5 @@
 import unittest
+import time
 import openahjo_activity_streams.scheduler as oas_s
 
 
@@ -11,6 +12,9 @@ class StubClock:
 
     def delay(self, seconds):
         self._now += seconds
+
+    def human_readable_time(self):
+        return time.ctime()
 
 
 def later_than(clock, stopping_time):

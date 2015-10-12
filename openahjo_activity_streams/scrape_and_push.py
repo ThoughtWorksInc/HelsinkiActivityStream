@@ -25,7 +25,7 @@ def scraper(coracle_endpoint, openahjo_endpoint):
 
         latest_published_time = coracle_timestamp_response.json().get('latest-published-timestamp')
         if latest_published_time is not None:
-            logging.info("successful request for latest_published_time " + latest_published_time)
+            logging.info("successful request for latest_published_time " + str(latest_published_time))
         else:
             logging.info("no latest_published_time is returned")
 
@@ -49,8 +49,8 @@ def pusher(coracle_endpoint, bearer_token):
                                  json=item,
                                  headers={'bearer-token': bearer_token})
 
-        logging.info("pushing to " + coracle_endpoint + " response " + str(response.status_code))
         if response.status_code != 201:
+            logging.error("Pushing failed. Status code: " + str(response.status_code))
             raise ex.PushFailureException
 
     return push
