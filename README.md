@@ -43,7 +43,7 @@ Then run ```ansible-playbook deployment_playbook.yml -i deployment.inventory```.
 ### Deployment
 
 First make sure to add the appropriate ssh private key.
-Then, add the correct environment varaibles in the ```helsinkiAS.env``` file that is in the ```ops/``` directory.
+Then, add the correct environment variables in the ```helsinkiAS.env``` file that is in the ```ops/``` directory.
 Lastly, run the deploy script by first entering the ```ops/``` directory by typing ``` cd ops/ ``` and running ```./deploy.sh``` with environment variables ```USER``` and ```IP_ADDRESS``` set according to your server's details.
 
 # Converting from OpenAhjo to Activity Stream 2.0 Format
@@ -58,7 +58,7 @@ At a high level, each activity item has the following structure:
 {
     "@context": "http://www.w3.org/ns/activitystreams",
     "published": "2015-08-28T11:06:47.879150",
-    "@type": "Add",
+    "type": "Add",
     "actor": {   },   // json object representing the policy committee making a decision
     "object": {   },  // json object representing the meeting agenda item during which the decision was made
     "target": {   }   // json object representing the issue about which the decision is being made
@@ -77,14 +77,14 @@ At this point, the activity stream is served as an unwrapped json list of activi
     
 ## Actor (OpenAhjo Policymaker)
 
-- Has the ```Group``` @type, as this represents a group of entities capable of acting
+- Has the ```Group``` type, as this represents a group of entities capable of acting
 
 ## Object (OpenAhjo Agenda Item)
 
-- Has the ```Content``` @type, representing an arbitrary piece of content
+- Has the ```Content``` type, representing an arbitrary piece of content
 - The ```content``` attribute of this object is populated from text contained in the first element of the ```content``` list in the OpenAhjo ```AgendaItem```.
 
 ## Target (OpenAhjo Issue)
 
-- Has the ```Content``` @type, representing an arbitrary piece of content
+- Has the ```Content``` type, representing an arbitrary piece of content
 - The ```content``` attribute is populated from the ```summary``` field of the ```issue``` record in the ```AgendaItem```, if the ```summary``` field exists; otherwise left blank.

@@ -15,7 +15,7 @@ class AgendaItemToActivityTest(unittest.TestCase):
         self._result = convert.agenda_item_to_activity(EXAMPLE_AGENDA_ITEM)
 
     def test_that_activity_type_is_Add(self):
-        self.assertEquals(self._result['@type'], 'Add')
+        self.assertEquals(self._result['type'], 'Add')
 
 
 class AgendaItemToPublishedTest(unittest.TestCase):
@@ -38,14 +38,14 @@ class AgendaItemToActorTest(unittest.TestCase):
         self._result = convert.agenda_item_to_actor(EXAMPLE_AGENDA_ITEM)
 
     def test_that_actor_type_is_group(self):
-        self.assertEquals(self._result['@type'], 'Group')
+        self.assertEquals(self._result['type'], 'Group')
 
     def test_that_actor_id_generated_from_meeting_policymaker(self):
         expected = convert.OPENAHJO_BASE_URL + '/paatokset/v1/policymaker/11/'
-        self.assertEquals(self._result['@id'], expected)
+        self.assertEquals(self._result['id'], expected)
 
     def test_that_actor_display_name_comes_from_policymaker_name(self):
-        self.assertEquals(self._result['displayName'],
+        self.assertEquals(self._result['name'],
                           EXAMPLE_AGENDA_ITEM['meeting']['policymaker_name'])
 
 
@@ -63,15 +63,15 @@ class AgendaItemToObjectTest(unittest.TestCase):
         self._result = convert.agenda_item_to_object(EXAMPLE_AGENDA_ITEM)
 
     def test_that_object_type_is_content(self):
-        self.assertEquals(self._result['@type'], 'Content')
+        self.assertEquals(self._result['type'], 'Content')
 
     def test_that_object_id_generated_from_agenda_item_resource_uri(self):
         expected = convert.OPENAHJO_BASE_URL + \
                    '/paatokset/v1/agenda_item/51427/'
-        self.assertEquals(self._result['@id'], expected)
+        self.assertEquals(self._result['id'], expected)
 
     def test_that_object_display_name_comes_from_subject(self):
-        self.assertEquals(self._result['displayName'],
+        self.assertEquals(self._result['name'],
                           EXAMPLE_AGENDA_ITEM['subject'])
 
     def test_that_object_url_comes_from_agenda_item_permalink(self):
@@ -89,14 +89,14 @@ class AgendaItemToTargetTest(unittest.TestCase):
         self._result = convert.agenda_item_to_target(EXAMPLE_AGENDA_ITEM)
 
     def test_that_target_type_is_content(self):
-        self.assertEquals(self._result['@type'], 'Content')
+        self.assertEquals(self._result['type'], 'Content')
 
     def test_that_target_id_is_generated_from_issue_resource_uri(self):
         expected = convert.OPENAHJO_BASE_URL + '/paatokset/v1/issue/20995/'
-        self.assertEquals(self._result['@id'], expected)
+        self.assertEquals(self._result['id'], expected)
 
     def test_that_target_display_name_comes_from_the_issue_subject(self):
-        self.assertEquals(self._result['displayName'],
+        self.assertEquals(self._result['name'],
                           EXAMPLE_AGENDA_ITEM['issue']['subject'])
 
     def test_that_target_content_comes_from_the_issue_summary(self):

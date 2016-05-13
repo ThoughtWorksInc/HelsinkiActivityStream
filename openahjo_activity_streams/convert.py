@@ -16,18 +16,18 @@ def resolve_url(path):
 def agenda_item_to_actor(agenda_item):
     meeting = agenda_item['meeting']
     return {
-        '@type': 'Group',
-        '@id': resolve_url(meeting['policymaker']),
-        'displayName': meeting['policymaker_name'],
+        'type': 'Group',
+        'id': resolve_url(meeting['policymaker']),
+        'name': meeting['policymaker_name'],
     }
 
 
 def agenda_item_to_object(agenda_item):
     return {
-        '@type': 'Content',
-        '@id': resolve_url(agenda_item['resource_uri']),
+        'type': 'Content',
+        'id': resolve_url(agenda_item['resource_uri']),
         'url': agenda_item['permalink'],
-        'displayName': agenda_item['subject'],
+        'name': agenda_item['subject'],
         'content': get_content_text(agenda_item),
     }
 
@@ -39,9 +39,9 @@ def get_content_text(agenda_item):
 def agenda_item_to_target(agenda_item):
     issue = agenda_item['issue']
     return {
-        '@type': 'Content',
-        '@id': resolve_url(issue['resource_uri']),
-        'displayName': issue['subject'],
+        'type': 'Content',
+        'id': resolve_url(issue['resource_uri']),
+        'name': issue['subject'],
         'content': issue.get('summary', ''),
     }
 
@@ -56,7 +56,7 @@ def agenda_item_to_published(agenda_item):
 def agenda_item_to_activity(agenda_item):
     return {
         '@context': 'http://www.w3.org/ns/activitystreams',
-        '@type': 'Add',
+        'type': 'Add',
         'published': agenda_item_to_published(agenda_item),
         'actor': agenda_item_to_actor(agenda_item),
         'object': agenda_item_to_object(agenda_item),
